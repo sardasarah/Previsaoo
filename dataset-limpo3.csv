@@ -1,0 +1,1446 @@
+defeito_constatado_id,solucao_id,familia_id,defeito_constatado_descricao,solucao_descricao,categoria_solucao,categoria_defeito,familia_descricao
+26814.0,4982.0,5370.0,Sem Condições De Manutenção No Local,Solicitar Troca De Equipamento,Troca Equipamento,Outros,Refrigerador
+26814.0,4982.0,5370.0,Sem Condições De Manutenção No Local,Solicitar Troca De Equipamento,Troca Equipamento,Outros,Refrigerador
+26814.0,5227.0,7634.0,Sem Condições De Manutenção No Local,Cliente Recusou Atendimento,Orientação Cliente,Outros,Congelador
+26814.0,5240.0,5370.0,Sem Condições De Manutenção No Local,Equipamento Recolhido,Troca Equipamento,Outros,Refrigerador
+26814.0,5240.0,7634.0,Sem Condições De Manutenção No Local,Equipamento Recolhido,Troca Equipamento,Outros,Congelador
+26814.0,6750.0,5370.0,Sem Condições De Manutenção No Local,Cliente Não Autorizou,Orientação Cliente,Outros,Refrigerador
+26815.0,4972.0,5370.0,Vibração Na Carcaça,Destravar Micromotor,Motor / Bomba,Estrutura,Refrigerador
+26815.0,4985.0,5370.0,Vibração Na Carcaça,Troca/Reparo Em Micro Motor,Motor / Bomba,Estrutura,Refrigerador
+26815.0,4986.0,5370.0,Vibração Na Carcaça,Reparo Motor Evaporador,Motor / Bomba,Estrutura,Refrigerador
+26815.0,4997.0,5370.0,Vibração Na Carcaça,Troca De Hélice,Troca De Peça,Estrutura,Refrigerador
+26816.0,4969.0,5370.0,Vazamento De Gás Refrigerante,Carga De Gás Refrigerante,Recarga De Gás,Vazamento,Refrigerador
+26816.0,4969.0,5370.0,Vazamento De Gás Refrigerante,Carga De Gás Refrigerante,Recarga De Gás,Vazamento,Refrigerador
+26816.0,4982.0,5370.0,Vazamento De Gás Refrigerante,Solicitar Troca De Equipamento,Troca Equipamento,Vazamento,Refrigerador
+26816.0,4990.0,5370.0,Vazamento De Gás Refrigerante,Troca De Capilar,Refrigeração,Vazamento,Refrigerador
+26816.0,4994.0,5370.0,Vazamento De Gás Refrigerante,Troca De Filtro Secador,Produto / Insumo,Vazamento,Refrigerador
+26816.0,5515.0,5370.0,Vazamento De Gás Refrigerante,Troca Evaporador,Refrigeração,Vazamento,Refrigerador
+26816.0,5516.0,5370.0,Vazamento De Gás Refrigerante,Troca Condensador,Refrigeração,Vazamento,Refrigerador
+26816.0,7499.0,5370.0,Vazamento De Gás Refrigerante,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+26816.0,7499.0,5370.0,Vazamento De Gás Refrigerante,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+26817.0,4969.0,5370.0,Unidade De Refrigeração Sem Gás,Carga De Gás Refrigerante,Recarga De Gás,Refrigeração,Refrigerador
+26817.0,4969.0,5370.0,Unidade De Refrigeração Sem Gás,Carga De Gás Refrigerante,Recarga De Gás,Refrigeração,Refrigerador
+26817.0,4987.0,5370.0,Unidade De Refrigeração Sem Gás,Troca/Reparo Unidade De Refrigeração,Reparo,Refrigeração,Refrigerador
+26817.0,5105.0,5370.0,Unidade De Refrigeração Sem Gás,Troca/Reparo Unidade De Refrigeração,Reparo,Refrigeração,Refrigerador
+26817.0,6704.0,5370.0,Unidade De Refrigeração Sem Gás,Troca/Reparo Unidade De Refrigeração,Troca De Peça,Refrigeração,Refrigerador
+26817.0,7499.0,5370.0,Unidade De Refrigeração Sem Gás,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+26817.0,7499.0,5370.0,Unidade De Refrigeração Sem Gás,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+26818.0,4981.0,5370.0,Transformador Queimado,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26818.0,4981.0,7634.0,Transformador Queimado,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Congelador
+26818.0,4981.0,5370.0,Transformador Queimado,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26818.0,5001.0,7634.0,Transformador Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Congelador
+26818.0,5001.0,5370.0,Transformador Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Refrigerador
+26818.0,5001.0,5370.0,Transformador Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Refrigerador
+26818.0,5004.0,5370.0,Transformador Queimado,Troca De Transformador,Sistema Elétrico,Elétrico,Refrigerador
+26818.0,5004.0,5370.0,Transformador Queimado,Troca De Transformador,Sistema Elétrico,Elétrico,Refrigerador
+26818.0,5079.0,7634.0,Transformador Queimado,Troca De Transformador,Sistema Elétrico,Elétrico,Congelador
+26818.0,5115.0,7634.0,Transformador Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Congelador
+26818.0,5501.0,7634.0,Transformador Queimado,Troca Da Fiação,Sistema Elétrico,Elétrico,Congelador
+26818.0,5654.0,7634.0,Transformador Queimado,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Congelador
+26819.0,4981.0,7634.0,Tomada Desligada,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Congelador
+26819.0,4981.0,5370.0,Tomada Desligada,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26820.0,4981.0,7634.0,Tomada Com Defeito,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Congelador
+26820.0,4981.0,5370.0,Tomada Com Defeito,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26820.0,4982.0,5370.0,Tomada Com Defeito,Solicitar Troca De Equipamento,Troca Equipamento,Elétrico,Refrigerador
+26820.0,4984.0,5370.0,Tomada Com Defeito,Troca/Instalação De Prateleiras,Troca De Peça,Elétrico,Refrigerador
+26820.0,4992.0,5370.0,Tomada Com Defeito,Troca De Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26820.0,4992.0,7634.0,Tomada Com Defeito,Troca De Contato/Tomada,Sistema Elétrico,Elétrico,Congelador
+26821.0,4971.0,5370.0,Termostato Com Defeito,Desativar Resistência,Outros,Sensores,Refrigerador
+26821.0,4979.0,5370.0,Termostato Com Defeito,Regulagem De Porta,Estrutura,Sensores,Refrigerador
+26821.0,4980.0,5370.0,Termostato Com Defeito,Regulagem De Termostato,Sensores / Controle,Sensores,Refrigerador
+26821.0,4980.0,7634.0,Termostato Com Defeito,Regulagem De Termostato,Sensores / Controle,Sensores,Congelador
+26821.0,4980.0,5370.0,Termostato Com Defeito,Regulagem De Termostato,Sensores / Controle,Sensores,Refrigerador
+26821.0,4985.0,5370.0,Termostato Com Defeito,Troca/Reparo Em Micro Motor,Motor / Bomba,Sensores,Refrigerador
+26821.0,5003.0,5370.0,Termostato Com Defeito,Troca De Termostato,Sensores / Controle,Sensores,Refrigerador
+26821.0,5003.0,5370.0,Termostato Com Defeito,Troca De Termostato,Sensores / Controle,Sensores,Refrigerador
+26821.0,5003.0,7634.0,Termostato Com Defeito,Troca De Termostato,Sensores / Controle,Sensores,Congelador
+26821.0,5004.0,5370.0,Termostato Com Defeito,Troca De Transformador,Sistema Elétrico,Sensores,Refrigerador
+26821.0,5501.0,7634.0,Termostato Com Defeito,Troca Da Fiação,Sistema Elétrico,Sensores,Congelador
+26821.0,5502.0,5370.0,Termostato Com Defeito,Ajuste Controlador,Sensores / Controle,Sensores,Refrigerador
+26821.0,5506.0,7634.0,Termostato Com Defeito,Revisão Geral No Sistema Elétrico,Outros,Sensores,Congelador
+26822.0,4991.0,5370.0,Start Queimado,Troca De Compressor,Refrigeração,Elétrico,Refrigerador
+26822.0,5002.0,5370.0,Start Queimado,Troca De Relé,Troca De Peça,Elétrico,Refrigerador
+26822.0,5004.0,5370.0,Start Queimado,Troca De Transformador,Sistema Elétrico,Elétrico,Refrigerador
+26822.0,5007.0,7634.0,Start Queimado,Troca Do Start,Troca De Peça,Elétrico,Congelador
+26822.0,5007.0,5370.0,Start Queimado,Troca Do Start,Troca De Peça,Elétrico,Refrigerador
+26823.0,4980.0,5370.0,Sensor De Temperatura C/Defeito,Regulagem De Termostato,Sensores / Controle,Sensores,Refrigerador
+26823.0,4982.0,5370.0,Sensor De Temperatura C/Defeito,Solicitar Troca De Equipamento,Troca Equipamento,Sensores,Refrigerador
+26823.0,4982.0,5370.0,Sensor De Temperatura C/Defeito,Solicitar Troca De Equipamento,Troca Equipamento,Sensores,Refrigerador
+26823.0,5003.0,5370.0,Sensor De Temperatura C/Defeito,Troca De Termostato,Sensores / Controle,Sensores,Refrigerador
+26823.0,5081.0,5370.0,Sensor De Temperatura C/Defeito,Troca De Sensor De Gelo,Sensores / Controle,Sensores,Refrigerador
+26823.0,5081.0,7634.0,Sensor De Temperatura C/Defeito,Troca De Sensor De Gelo,Sensores / Controle,Sensores,Congelador
+26823.0,5504.0,5370.0,Sensor De Temperatura C/Defeito,Troca Do Sensor De Temperatura,Sensores / Controle,Sensores,Refrigerador
+26823.0,5504.0,7634.0,Sensor De Temperatura C/Defeito,Troca Do Sensor De Temperatura,Sensores / Controle,Sensores,Congelador
+26823.0,5654.0,7634.0,Sensor De Temperatura C/Defeito,Revisão Geral No Sistema Elétrico,Outros,Sensores,Congelador
+26823.0,6398.0,5370.0,Sensor De Temperatura C/Defeito,Reparo De Sensor De Temperatura,Sensores / Controle,Sensores,Refrigerador
+26823.0,6398.0,5370.0,Sensor De Temperatura C/Defeito,Reparo De Sensor De Temperatura,Sensores / Controle,Sensores,Refrigerador
+26824.0,4977.0,7634.0,Reservatório De Água Cheio,Nivelar Equipamento,Ajuste / Regulagem,Água,Congelador
+26824.0,4977.0,5370.0,Reservatório De Água Cheio,Nivelar Equipamento,Ajuste / Regulagem,Água,Refrigerador
+26824.0,4977.0,5370.0,Reservatório De Água Cheio,Nivelar Equipamento,Ajuste / Regulagem,Água,Refrigerador
+26824.0,4978.0,5370.0,Reservatório De Água Cheio,Reparo No Auto-Fechamento,Reparo,Água,Refrigerador
+26824.0,4993.0,7634.0,Reservatório De Água Cheio,Troca De Dreno,Troca De Peça,Água,Congelador
+26824.0,4995.0,5370.0,Reservatório De Água Cheio,Troca De Gaxeta,Estrutura,Água,Refrigerador
+26824.0,5512.0,7634.0,Reservatório De Água Cheio,Troca Do Coletor,Troca De Peça,Água,Congelador
+26824.0,6166.0,7634.0,Reservatório De Água Cheio,Posicionar Filtro Desidratador,Produto / Insumo,Água,Congelador
+26824.0,6249.0,7634.0,Reservatório De Água Cheio,Limpeza No Dreno,Limpeza,Água,Congelador
+26824.0,6714.0,5370.0,Reservatório De Água Cheio,Posicionar Filtro Desidratador,Produto / Insumo,Água,Refrigerador
+26824.0,6715.0,5370.0,Reservatório De Água Cheio,Limpeza No Dreno,Limpeza,Água,Refrigerador
+26825.0,4991.0,5370.0,Relé Queimado,Troca De Compressor,Refrigeração,Elétrico,Refrigerador
+26825.0,5002.0,5370.0,Relé Queimado,Troca De Relé,Troca De Peça,Elétrico,Refrigerador
+26825.0,5002.0,7634.0,Relé Queimado,Troca De Relé,Troca De Peça,Elétrico,Congelador
+26825.0,5002.0,5370.0,Relé Queimado,Troca De Relé,Troca De Peça,Elétrico,Refrigerador
+26825.0,5007.0,5370.0,Relé Queimado,Troca Do Start,Troca De Peça,Elétrico,Refrigerador
+26825.0,5654.0,7634.0,Relé Queimado,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Congelador
+26826.0,4998.0,5370.0,Reator Queimado,Troca De Lâmpada,Troca De Peça,Elétrico,Refrigerador
+26826.0,5001.0,5370.0,Reator Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Refrigerador
+26826.0,5001.0,5370.0,Reator Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Refrigerador
+26826.0,5001.0,7634.0,Reator Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Congelador
+26826.0,5004.0,5370.0,Reator Queimado,Troca De Transformador,Sistema Elétrico,Elétrico,Refrigerador
+26826.0,5514.0,5370.0,Reator Queimado,Troca Da Fonte 12/24 V,Troca De Peça,Elétrico,Refrigerador
+26826.0,5654.0,7634.0,Reator Queimado,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Congelador
+26827.0,4979.0,5370.0,Puxador Quebrado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+26827.0,4982.0,5370.0,Puxador Quebrado,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+26827.0,4999.0,5370.0,Puxador Quebrado,Troca De Porta,Estrutura,Estrutura,Refrigerador
+26827.0,4999.0,5370.0,Puxador Quebrado,Troca De Porta,Estrutura,Estrutura,Refrigerador
+26827.0,5006.0,5370.0,Puxador Quebrado,Troca Do Puxador,Estrutura,Estrutura,Refrigerador
+26827.0,5006.0,5370.0,Puxador Quebrado,Troca Do Puxador,Estrutura,Estrutura,Refrigerador
+26827.0,6245.0,7634.0,Puxador Quebrado,Troca De Puxador,Estrutura,Estrutura,Congelador
+26828.0,4991.0,5370.0,Protetor Térmico Com Defeito,Troca De Compressor,Refrigeração,Elétrico,Refrigerador
+26828.0,5000.0,5370.0,Protetor Térmico Com Defeito,Troca De Protetor Térmico,Troca De Peça,Elétrico,Refrigerador
+26828.0,5000.0,5370.0,Protetor Térmico Com Defeito,Troca De Protetor Térmico,Troca De Peça,Elétrico,Refrigerador
+26828.0,5000.0,7634.0,Protetor Térmico Com Defeito,Troca De Protetor Térmico,Troca De Peça,Elétrico,Congelador
+26828.0,5073.0,7634.0,Protetor Térmico Com Defeito,Troca De Protetor Térmico,Troca De Peça,Elétrico,Congelador
+26829.0,4982.0,5370.0,Protetor De Lâmpada Quebrado,Solicitar Troca De Equipamento,Troca Equipamento,Iluminação,Refrigerador
+26829.0,4998.0,5370.0,Protetor De Lâmpada Quebrado,Troca De Lâmpada,Troca De Peça,Iluminação,Refrigerador
+26829.0,4998.0,5370.0,Protetor De Lâmpada Quebrado,Troca De Lâmpada,Troca De Peça,Iluminação,Refrigerador
+26829.0,5000.0,5370.0,Protetor De Lâmpada Quebrado,Troca De Protetor Térmico,Troca De Peça,Iluminação,Refrigerador
+26829.0,5005.0,7634.0,Protetor De Lâmpada Quebrado,Troca Do Protetor De Lâmpada,Troca De Peça,Iluminação,Congelador
+26829.0,5005.0,5370.0,Protetor De Lâmpada Quebrado,Troca Do Protetor De Lâmpada,Troca De Peça,Iluminação,Refrigerador
+26830.0,4978.0,5370.0,Porta Com Defeito,Reparo No Auto-Fechamento,Reparo,Estrutura,Refrigerador
+26830.0,4979.0,5370.0,Porta Com Defeito,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+26830.0,4979.0,7634.0,Porta Com Defeito,Regulagem De Porta,Estrutura,Estrutura,Congelador
+26830.0,4979.0,5370.0,Porta Com Defeito,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+26830.0,4982.0,5370.0,Porta Com Defeito,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+26830.0,4999.0,5370.0,Porta Com Defeito,Troca De Porta,Estrutura,Estrutura,Refrigerador
+26830.0,4999.0,5370.0,Porta Com Defeito,Troca De Porta,Estrutura,Estrutura,Refrigerador
+26830.0,4999.0,7634.0,Porta Com Defeito,Troca De Porta,Estrutura,Estrutura,Congelador
+26830.0,6147.0,7634.0,Porta Com Defeito,Troca De Porta,Estrutura,Estrutura,Congelador
+26830.0,7090.0,5370.0,Porta Com Defeito,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+26830.0,7091.0,5370.0,Porta Com Defeito,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+26830.0,7092.0,5370.0,Porta Com Defeito,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+26841.0,4969.0,5370.0,Motor Evaporador Com Defeito,Carga De Gás Refrigerante,Recarga De Gás,Motores,Refrigerador
+26841.0,4972.0,5370.0,Motor Evaporador Com Defeito,Destravar Micromotor,Motor / Bomba,Motores,Refrigerador
+26841.0,4972.0,7634.0,Motor Evaporador Com Defeito,Destravar Micromotor,Motor / Bomba,Motores,Congelador
+26841.0,4980.0,7634.0,Motor Evaporador Com Defeito,Regulagem De Termostato,Sensores / Controle,Motores,Congelador
+26841.0,4985.0,5370.0,Motor Evaporador Com Defeito,Troca/Reparo Em Micro Motor,Motor / Bomba,Motores,Refrigerador
+26841.0,4985.0,5370.0,Motor Evaporador Com Defeito,Troca/Reparo Em Micro Motor,Motor / Bomba,Motores,Refrigerador
+26841.0,4986.0,5370.0,Motor Evaporador Com Defeito,Reparo Motor Evaporador,Motor / Bomba,Motores,Refrigerador
+26841.0,4989.0,7634.0,Motor Evaporador Com Defeito,Troca De Capacitor,Sistema Elétrico,Motores,Congelador
+26841.0,4997.0,5370.0,Motor Evaporador Com Defeito,Troca De Hélice,Troca De Peça,Motores,Refrigerador
+26841.0,4997.0,7634.0,Motor Evaporador Com Defeito,Troca De Hélice,Troca De Peça,Motores,Congelador
+26841.0,4997.0,5370.0,Motor Evaporador Com Defeito,Troca De Hélice,Troca De Peça,Motores,Refrigerador
+26841.0,5002.0,7634.0,Motor Evaporador Com Defeito,Troca De Relé,Troca De Peça,Motores,Congelador
+26841.0,5501.0,7634.0,Motor Evaporador Com Defeito,Troca Da Fiação,Sistema Elétrico,Motores,Congelador
+26842.0,4972.0,5370.0,Motor Do Condensador Com Defeito,Destravar Micromotor,Motor / Bomba,Motores,Refrigerador
+26842.0,4980.0,7634.0,Motor Do Condensador Com Defeito,Regulagem De Termostato,Sensores / Controle,Motores,Congelador
+26842.0,4985.0,5370.0,Motor Do Condensador Com Defeito,Troca/Reparo Em Micro Motor,Motor / Bomba,Motores,Refrigerador
+26842.0,4985.0,5370.0,Motor Do Condensador Com Defeito,Troca/Reparo Em Micro Motor,Motor / Bomba,Motores,Refrigerador
+26842.0,4986.0,5370.0,Motor Do Condensador Com Defeito,Reparo Motor Evaporador,Motor / Bomba,Motores,Refrigerador
+26842.0,4989.0,7634.0,Motor Do Condensador Com Defeito,Troca De Capacitor,Sistema Elétrico,Motores,Congelador
+26842.0,4997.0,5370.0,Motor Do Condensador Com Defeito,Troca De Hélice,Troca De Peça,Motores,Refrigerador
+26842.0,4997.0,5370.0,Motor Do Condensador Com Defeito,Troca De Hélice,Troca De Peça,Motores,Refrigerador
+26842.0,5002.0,7634.0,Motor Do Condensador Com Defeito,Troca De Relé,Troca De Peça,Motores,Congelador
+26842.0,5501.0,7634.0,Motor Do Condensador Com Defeito,Troca Da Fiação,Sistema Elétrico,Motores,Congelador
+26843.0,4981.0,7634.0,Fonte De Led Queimado,Religar Contato/Tomada,Sistema Elétrico,Iluminação,Congelador
+26843.0,4992.0,7634.0,Fonte De Led Queimado,Troca De Contato/Tomada,Sistema Elétrico,Iluminação,Congelador
+26843.0,4998.0,5370.0,Fonte De Led Queimado,Troca De Lâmpada,Troca De Peça,Iluminação,Refrigerador
+26843.0,4998.0,7634.0,Fonte De Led Queimado,Troca De Lâmpada,Troca De Peça,Iluminação,Congelador
+26843.0,4998.0,5370.0,Fonte De Led Queimado,Troca De Lâmpada,Troca De Peça,Iluminação,Refrigerador
+26843.0,5001.0,5370.0,Fonte De Led Queimado,Troca De Reator,Sistema Elétrico,Iluminação,Refrigerador
+26843.0,5001.0,7634.0,Fonte De Led Queimado,Troca De Reator,Sistema Elétrico,Iluminação,Congelador
+26843.0,5001.0,5370.0,Fonte De Led Queimado,Troca De Reator,Sistema Elétrico,Iluminação,Refrigerador
+26843.0,5217.0,7634.0,Fonte De Led Queimado,Troca Do Controlador,Sensores / Controle,Iluminação,Congelador
+26843.0,5501.0,7634.0,Fonte De Led Queimado,Troca Da Fiação,Sistema Elétrico,Iluminação,Congelador
+26843.0,5514.0,7634.0,Fonte De Led Queimado,Troca Da Fonte 12/24 V,Troca De Peça,Iluminação,Congelador
+26843.0,5654.0,7634.0,Fonte De Led Queimado,Revisão Geral No Sistema Elétrico,Outros,Iluminação,Congelador
+26843.0,6178.0,7634.0,Fonte De Led Queimado,Reparo De Controlador,Sensores / Controle,Iluminação,Congelador
+26843.0,6201.0,7634.0,Fonte De Led Queimado,Reparo No Reator,Sistema Elétrico,Iluminação,Congelador
+26843.0,6203.0,7634.0,Fonte De Led Queimado,Reparo Da Fonte 12/24 V,Reparo,Iluminação,Congelador
+26843.0,6393.0,5370.0,Fonte De Led Queimado,Ajuste No Led,Ajuste / Regulagem,Iluminação,Refrigerador
+26843.0,6716.0,5370.0,Fonte De Led Queimado,Reparo No Reator,Sistema Elétrico,Iluminação,Refrigerador
+26843.0,6717.0,5370.0,Fonte De Led Queimado,Troca Do Controlador,Sensores / Controle,Iluminação,Refrigerador
+26843.0,6718.0,5370.0,Fonte De Led Queimado,Ajuste Controlador,Sensores / Controle,Iluminação,Refrigerador
+26843.0,6719.0,5370.0,Fonte De Led Queimado,Reparo Da Fonte 12/24 V,Reparo,Iluminação,Refrigerador
+26844.0,4978.0,5370.0,Grade Quebrada,Reparo No Auto-Fechamento,Reparo,Estrutura,Refrigerador
+26844.0,4982.0,5370.0,Grade Quebrada,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+26844.0,4996.0,5370.0,Grade Quebrada,Troca De Grade Do Motor,Estrutura,Estrutura,Refrigerador
+26844.0,4996.0,7634.0,Grade Quebrada,Troca De Grade Do Motor,Estrutura,Estrutura,Congelador
+26844.0,4996.0,5370.0,Grade Quebrada,Troca De Grade Do Motor,Estrutura,Estrutura,Refrigerador
+26845.0,4978.0,5370.0,Gaxeta Danificada,Reparo No Auto-Fechamento,Reparo,Estrutura,Refrigerador
+26845.0,4978.0,5370.0,Gaxeta Danificada,Reparo No Auto-Fechamento,Reparo,Estrutura,Refrigerador
+26845.0,4995.0,5370.0,Gaxeta Danificada,Troca De Gaxeta,Estrutura,Estrutura,Refrigerador
+26845.0,4995.0,5370.0,Gaxeta Danificada,Troca De Gaxeta,Estrutura,Estrutura,Refrigerador
+26845.0,4995.0,7634.0,Gaxeta Danificada,Troca De Gaxeta,Estrutura,Estrutura,Congelador
+26845.0,6244.0,7634.0,Gaxeta Danificada,Reparo Na Gaxeta Da Porta,Estrutura,Estrutura,Congelador
+26845.0,6710.0,5370.0,Gaxeta Danificada,Reparo Na Gaxeta,Estrutura,Estrutura,Refrigerador
+26846.0,4977.0,5370.0,Gabinete Empenado,Nivelar Equipamento,Ajuste / Regulagem,Estrutura,Refrigerador
+26846.0,4978.0,5370.0,Gabinete Empenado,Reparo No Auto-Fechamento,Reparo,Estrutura,Refrigerador
+26846.0,4979.0,5370.0,Gabinete Empenado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+26846.0,4982.0,7634.0,Gabinete Empenado,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Congelador
+26846.0,4982.0,5370.0,Gabinete Empenado,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+26846.0,4982.0,5370.0,Gabinete Empenado,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+26846.0,4984.0,5370.0,Gabinete Empenado,Troca/Instalação De Prateleiras,Troca De Peça,Estrutura,Refrigerador
+26846.0,4998.0,5370.0,Gabinete Empenado,Troca De Lâmpada,Troca De Peça,Estrutura,Refrigerador
+26846.0,4999.0,5370.0,Gabinete Empenado,Troca De Porta,Estrutura,Estrutura,Refrigerador
+26847.0,4971.0,5370.0,Fusível Queimado,Desativar Resistência,Outros,Elétrico,Refrigerador
+26847.0,4981.0,5370.0,Fusível Queimado,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26847.0,4984.0,5370.0,Fusível Queimado,Troca/Instalação De Prateleiras,Troca De Peça,Elétrico,Refrigerador
+26847.0,4989.0,5370.0,Fusível Queimado,Troca De Capacitor,Sistema Elétrico,Elétrico,Refrigerador
+26847.0,4991.0,5370.0,Fusível Queimado,Troca De Compressor,Refrigeração,Elétrico,Refrigerador
+26847.0,4992.0,5370.0,Fusível Queimado,Troca De Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26847.0,4992.0,7634.0,Fusível Queimado,Troca De Contato/Tomada,Sistema Elétrico,Elétrico,Congelador
+26847.0,4998.0,5370.0,Fusível Queimado,Troca De Lâmpada,Troca De Peça,Elétrico,Refrigerador
+26847.0,5000.0,5370.0,Fusível Queimado,Troca De Protetor Térmico,Troca De Peça,Elétrico,Refrigerador
+26847.0,5001.0,5370.0,Fusível Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Refrigerador
+26847.0,5002.0,5370.0,Fusível Queimado,Troca De Relé,Troca De Peça,Elétrico,Refrigerador
+26847.0,5004.0,5370.0,Fusível Queimado,Troca De Transformador,Sistema Elétrico,Elétrico,Refrigerador
+26848.0,4969.0,5370.0,Filtro Secador Obstruído,Carga De Gás Refrigerante,Recarga De Gás,Água,Refrigerador
+26848.0,4969.0,7634.0,Filtro Secador Obstruído,Carga De Gás Refrigerante,Recarga De Gás,Água,Congelador
+26848.0,4969.0,5370.0,Filtro Secador Obstruído,Carga De Gás Refrigerante,Recarga De Gás,Água,Refrigerador
+26848.0,4994.0,5370.0,Filtro Secador Obstruído,Troca De Filtro Secador,Produto / Insumo,Água,Refrigerador
+26848.0,4994.0,5370.0,Filtro Secador Obstruído,Troca De Filtro Secador,Produto / Insumo,Água,Refrigerador
+26848.0,5105.0,7634.0,Filtro Secador Obstruído,Troca/Reparo Unidade De Refrigeração,Reparo,Água,Congelador
+26848.0,6167.0,7634.0,Filtro Secador Obstruído,Troca De Filtro Secador,Produto / Insumo,Água,Congelador
+26848.0,6704.0,5370.0,Filtro Secador Obstruído,Troca/Reparo Unidade De Refrigeração,Troca De Peça,Água,Refrigerador
+26849.0,4982.0,5370.0,Falta Prateleira,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+26849.0,4984.0,5370.0,Falta Prateleira,Troca/Instalação De Prateleiras,Troca De Peça,Estrutura,Refrigerador
+26849.0,4984.0,5370.0,Falta Prateleira,Troca/Instalação De Prateleiras,Troca De Peça,Estrutura,Refrigerador
+26849.0,6217.0,7634.0,Falta Prateleira,Troca De Prateleira,Troca De Peça,Estrutura,Congelador
+26849.0,6723.0,5370.0,Falta Prateleira,Ajuste De Canaleta,Ajuste / Regulagem,Estrutura,Refrigerador
+26849.0,7090.0,5370.0,Falta Prateleira,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+26849.0,7091.0,5370.0,Falta Prateleira,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+26849.0,7092.0,5370.0,Falta Prateleira,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+26850.0,4972.0,5370.0,Motor Forçador Sem Lubrificação,Destravar Micromotor,Motor / Bomba,Motores,Refrigerador
+26850.0,4972.0,7634.0,Motor Forçador Sem Lubrificação,Destravar Micromotor,Motor / Bomba,Motores,Congelador
+26850.0,4985.0,5370.0,Motor Forçador Sem Lubrificação,Troca/Reparo Em Micro Motor,Motor / Bomba,Motores,Refrigerador
+26850.0,4986.0,5370.0,Motor Forçador Sem Lubrificação,Reparo Motor Evaporador,Motor / Bomba,Motores,Refrigerador
+26850.0,4997.0,5370.0,Motor Forçador Sem Lubrificação,Troca De Hélice,Troca De Peça,Motores,Refrigerador
+26851.0,4978.0,5370.0,Falta De Energia,Reparo No Auto-Fechamento,Reparo,Elétrico,Refrigerador
+26851.0,4981.0,5370.0,Falta De Energia,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26851.0,4982.0,5370.0,Falta De Energia,Solicitar Troca De Equipamento,Troca Equipamento,Elétrico,Refrigerador
+26851.0,4992.0,5370.0,Falta De Energia,Troca De Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26851.0,5004.0,5370.0,Falta De Energia,Troca De Transformador,Sistema Elétrico,Elétrico,Refrigerador
+26851.0,5501.0,7634.0,Falta De Energia,Troca Da Fiação,Sistema Elétrico,Elétrico,Congelador
+26851.0,5507.0,7634.0,Falta De Energia,Troca Cabo De Força,Sistema Elétrico,Elétrico,Congelador
+26851.0,5654.0,7634.0,Falta De Energia,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Congelador
+26853.0,4978.0,5370.0,Equipamento Em Mau Estado,Reparo No Auto-Fechamento,Reparo,Estrutura,Refrigerador
+26853.0,4978.0,5370.0,Equipamento Em Mau Estado,Reparo No Auto-Fechamento,Reparo,Estrutura,Refrigerador
+26853.0,4981.0,5370.0,Equipamento Em Mau Estado,Religar Contato/Tomada,Sistema Elétrico,Estrutura,Refrigerador
+26853.0,4981.0,5370.0,Equipamento Em Mau Estado,Religar Contato/Tomada,Sistema Elétrico,Estrutura,Refrigerador
+26853.0,4982.0,7634.0,Equipamento Em Mau Estado,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Congelador
+26853.0,4982.0,5370.0,Equipamento Em Mau Estado,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+26853.0,4982.0,5370.0,Equipamento Em Mau Estado,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+26853.0,4984.0,5370.0,Equipamento Em Mau Estado,Troca/Instalação De Prateleiras,Troca De Peça,Estrutura,Refrigerador
+26853.0,4988.0,7634.0,Equipamento Em Mau Estado,Troca De Adesivos,Troca De Peça,Estrutura,Congelador
+26853.0,4988.0,5370.0,Equipamento Em Mau Estado,Troca De Adesivos,Troca De Peça,Estrutura,Refrigerador
+26853.0,4988.0,5370.0,Equipamento Em Mau Estado,Troca De Adesivos,Troca De Peça,Estrutura,Refrigerador
+26853.0,4996.0,5370.0,Equipamento Em Mau Estado,Troca De Grade Do Motor,Estrutura,Estrutura,Refrigerador
+26853.0,4999.0,5370.0,Equipamento Em Mau Estado,Troca De Porta,Estrutura,Estrutura,Refrigerador
+26853.0,5071.0,7634.0,Equipamento Em Mau Estado,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Congelador
+26853.0,5654.0,7634.0,Equipamento Em Mau Estado,Revisão Geral No Sistema Elétrico,Outros,Estrutura,Congelador
+26853.0,7090.0,5370.0,Equipamento Em Mau Estado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+26853.0,7091.0,5370.0,Equipamento Em Mau Estado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+26853.0,7513.0,5370.0,Equipamento Em Mau Estado,Troca Técnica,Troca De Peça,Estrutura,Refrigerador
+26853.0,7513.0,5370.0,Equipamento Em Mau Estado,Troca Técnica,Troca De Peça,Estrutura,Refrigerador
+26854.0,4971.0,5370.0,Equipamento Em Curto,Desativar Resistência,Outros,Elétrico,Refrigerador
+26854.0,4971.0,7634.0,Equipamento Em Curto,Desativar Resistência,Outros,Elétrico,Congelador
+26854.0,4981.0,5370.0,Equipamento Em Curto,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26854.0,4981.0,7634.0,Equipamento Em Curto,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Congelador
+26854.0,4982.0,5370.0,Equipamento Em Curto,Solicitar Troca De Equipamento,Troca Equipamento,Elétrico,Refrigerador
+26854.0,4982.0,5370.0,Equipamento Em Curto,Solicitar Troca De Equipamento,Troca Equipamento,Elétrico,Refrigerador
+26854.0,4984.0,5370.0,Equipamento Em Curto,Troca/Instalação De Prateleiras,Troca De Peça,Elétrico,Refrigerador
+26854.0,4985.0,7634.0,Equipamento Em Curto,Troca/Reparo Em Micro Motor,Motor / Bomba,Elétrico,Congelador
+26854.0,4985.0,5370.0,Equipamento Em Curto,Troca/Reparo Em Micro Motor,Motor / Bomba,Elétrico,Refrigerador
+26854.0,4987.0,5370.0,Equipamento Em Curto,Troca/Reparo Unidade De Refrigeração,Reparo,Elétrico,Refrigerador
+26854.0,4989.0,5370.0,Equipamento Em Curto,Troca De Capacitor,Sistema Elétrico,Elétrico,Refrigerador
+26854.0,4991.0,5370.0,Equipamento Em Curto,Troca De Compressor,Refrigeração,Elétrico,Refrigerador
+26854.0,4992.0,5370.0,Equipamento Em Curto,Troca De Contato/Tomada,Sistema Elétrico,Elétrico,Refrigerador
+26854.0,4992.0,7634.0,Equipamento Em Curto,Troca De Contato/Tomada,Sistema Elétrico,Elétrico,Congelador
+26854.0,4998.0,5370.0,Equipamento Em Curto,Troca De Lâmpada,Troca De Peça,Elétrico,Refrigerador
+26854.0,5000.0,5370.0,Equipamento Em Curto,Troca De Protetor Térmico,Troca De Peça,Elétrico,Refrigerador
+26854.0,5002.0,7634.0,Equipamento Em Curto,Troca De Relé,Troca De Peça,Elétrico,Congelador
+26854.0,5002.0,5370.0,Equipamento Em Curto,Troca De Relé,Troca De Peça,Elétrico,Refrigerador
+26854.0,5003.0,5370.0,Equipamento Em Curto,Troca De Termostato,Sensores / Controle,Elétrico,Refrigerador
+26854.0,5004.0,5370.0,Equipamento Em Curto,Troca De Transformador,Sistema Elétrico,Elétrico,Refrigerador
+26854.0,5005.0,5370.0,Equipamento Em Curto,Troca Do Protetor De Lâmpada,Troca De Peça,Elétrico,Refrigerador
+26854.0,5007.0,5370.0,Equipamento Em Curto,Troca Do Start,Troca De Peça,Elétrico,Refrigerador
+26854.0,5047.0,7634.0,Equipamento Em Curto,Troca De Capacitor,Sistema Elétrico,Elétrico,Congelador
+26854.0,5073.0,7634.0,Equipamento Em Curto,Troca De Protetor Térmico,Troca De Peça,Elétrico,Congelador
+26854.0,5079.0,7634.0,Equipamento Em Curto,Troca De Transformador,Sistema Elétrico,Elétrico,Congelador
+26854.0,5131.0,7634.0,Equipamento Em Curto,Troca De Termostato,Sensores / Controle,Elétrico,Congelador
+26854.0,5506.0,5370.0,Equipamento Em Curto,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Refrigerador
+26854.0,5508.0,5370.0,Equipamento Em Curto,Troca Do Cabeamento,Troca De Peça,Elétrico,Refrigerador
+26854.0,5661.0,7634.0,Equipamento Em Curto,Troca Do Cabeamento,Troca De Peça,Elétrico,Congelador
+26854.0,6150.0,7634.0,Equipamento Em Curto,Troca De Auto-Fechamento,Troca De Peça,Elétrico,Congelador
+26855.0,4977.0,7634.0,Equipamento Desnivelado,Nivelar Equipamento,Ajuste / Regulagem,Estrutura,Congelador
+26855.0,4977.0,5370.0,Equipamento Desnivelado,Nivelar Equipamento,Ajuste / Regulagem,Estrutura,Refrigerador
+26855.0,4977.0,5370.0,Equipamento Desnivelado,Nivelar Equipamento,Ajuste / Regulagem,Estrutura,Refrigerador
+26855.0,4978.0,5370.0,Equipamento Desnivelado,Reparo No Auto-Fechamento,Reparo,Estrutura,Refrigerador
+26855.0,4979.0,5370.0,Equipamento Desnivelado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+26855.0,4999.0,5370.0,Equipamento Desnivelado,Troca De Porta,Estrutura,Estrutura,Refrigerador
+26855.0,5513.0,5370.0,Equipamento Desnivelado,Ajuste Do Pé Nivelador,Ajuste / Regulagem,Estrutura,Refrigerador
+26855.0,6210.0,7634.0,Equipamento Desnivelado,Troca De Pé Nivelador,Troca De Peça,Estrutura,Congelador
+26855.0,6722.0,5370.0,Equipamento Desnivelado,Troca Do Pé Nivelador,Troca De Peça,Estrutura,Refrigerador
+26856.0,4969.0,5370.0,Equipamento Com Gás R12,Carga De Gás Refrigerante,Recarga De Gás,Refrigeração,Refrigerador
+26856.0,4969.0,5370.0,Equipamento Com Gás R12,Carga De Gás Refrigerante,Recarga De Gás,Refrigeração,Refrigerador
+26856.0,7499.0,5370.0,Equipamento Com Gás R12,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+26856.0,7499.0,5370.0,Equipamento Com Gás R12,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+26857.0,4972.0,5370.0,Dreno Entupido,Destravar Micromotor,Motor / Bomba,Água,Refrigerador
+26857.0,4977.0,5370.0,Dreno Entupido,Nivelar Equipamento,Ajuste / Regulagem,Água,Refrigerador
+26857.0,4978.0,5370.0,Dreno Entupido,Reparo No Auto-Fechamento,Reparo,Água,Refrigerador
+26857.0,4978.0,5370.0,Dreno Entupido,Reparo No Auto-Fechamento,Reparo,Água,Refrigerador
+26857.0,4993.0,5370.0,Dreno Entupido,Troca De Dreno,Troca De Peça,Água,Refrigerador
+26857.0,4993.0,5370.0,Dreno Entupido,Troca De Dreno,Troca De Peça,Água,Refrigerador
+26857.0,4995.0,5370.0,Dreno Entupido,Troca De Gaxeta,Estrutura,Água,Refrigerador
+26857.0,7499.0,5370.0,Dreno Entupido,Visita Sta Com Troca De Peça,Troca De Peça,Água,Refrigerador
+26857.0,7499.0,5370.0,Dreno Entupido,Visita Sta Com Troca De Peça,Troca De Peça,Água,Refrigerador
+26858.0,4969.0,5370.0,Condensador Obstruído/ Sujo,Carga De Gás Refrigerante,Recarga De Gás,Limpeza,Refrigerador
+26858.0,4975.0,7634.0,Condensador Obstruído/ Sujo,Limpar Condensador,Refrigeração,Limpeza,Congelador
+26858.0,4975.0,5370.0,Condensador Obstruído/ Sujo,Limpar Condensador,Refrigeração,Limpeza,Refrigerador
+26858.0,4975.0,5370.0,Condensador Obstruído/ Sujo,Limpar Condensador,Refrigeração,Limpeza,Refrigerador
+26858.0,4978.0,5370.0,Condensador Obstruído/ Sujo,Reparo No Auto-Fechamento,Reparo,Limpeza,Refrigerador
+26858.0,4978.0,7634.0,Condensador Obstruído/ Sujo,Reparo No Auto-Fechamento,Reparo,Limpeza,Congelador
+26858.0,4978.0,5370.0,Condensador Obstruído/ Sujo,Reparo No Auto-Fechamento,Reparo,Limpeza,Refrigerador
+26858.0,4982.0,5370.0,Condensador Obstruído/ Sujo,Solicitar Troca De Equipamento,Troca Equipamento,Limpeza,Refrigerador
+26858.0,4987.0,5370.0,Condensador Obstruído/ Sujo,Troca/Reparo Unidade De Refrigeração,Reparo,Limpeza,Refrigerador
+26858.0,4987.0,5370.0,Condensador Obstruído/ Sujo,Troca/Reparo Unidade De Refrigeração,Reparo,Limpeza,Refrigerador
+26858.0,5516.0,7634.0,Condensador Obstruído/ Sujo,Troca Condensador,Refrigeração,Limpeza,Congelador
+26858.0,5516.0,5370.0,Condensador Obstruído/ Sujo,Troca Condensador,Refrigeração,Limpeza,Refrigerador
+26859.0,4980.0,5370.0,Compressor Com Defeito,Regulagem De Termostato,Sensores / Controle,Refrigeração,Refrigerador
+26859.0,4981.0,5370.0,Compressor Com Defeito,Religar Contato/Tomada,Sistema Elétrico,Refrigeração,Refrigerador
+26859.0,4984.0,5370.0,Compressor Com Defeito,Troca/Instalação De Prateleiras,Troca De Peça,Refrigeração,Refrigerador
+26859.0,4989.0,5370.0,Compressor Com Defeito,Troca De Capacitor,Sistema Elétrico,Refrigeração,Refrigerador
+26859.0,4991.0,7634.0,Compressor Com Defeito,Troca De Compressor,Refrigeração,Refrigeração,Congelador
+26859.0,4991.0,5370.0,Compressor Com Defeito,Troca De Compressor,Refrigeração,Refrigeração,Refrigerador
+26859.0,4991.0,5370.0,Compressor Com Defeito,Troca De Compressor,Refrigeração,Refrigeração,Refrigerador
+26859.0,4992.0,7634.0,Compressor Com Defeito,Troca De Contato/Tomada,Sistema Elétrico,Refrigeração,Congelador
+26859.0,5000.0,5370.0,Compressor Com Defeito,Troca De Protetor Térmico,Troca De Peça,Refrigeração,Refrigerador
+26859.0,5002.0,5370.0,Compressor Com Defeito,Troca De Relé,Troca De Peça,Refrigeração,Refrigerador
+26859.0,5003.0,5370.0,Compressor Com Defeito,Troca De Termostato,Sensores / Controle,Refrigeração,Refrigerador
+26859.0,5004.0,5370.0,Compressor Com Defeito,Troca De Transformador,Sistema Elétrico,Refrigeração,Refrigerador
+26859.0,5005.0,5370.0,Compressor Com Defeito,Troca Do Protetor De Lâmpada,Troca De Peça,Refrigeração,Refrigerador
+26859.0,5501.0,7634.0,Compressor Com Defeito,Troca Da Fiação,Sistema Elétrico,Refrigeração,Congelador
+26859.0,7499.0,5373.0,Compressor Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Chopeira
+26860.0,4969.0,5370.0,Capilar Obstruído,Carga De Gás Refrigerante,Recarga De Gás,Obstrução,Refrigerador
+26860.0,4969.0,7634.0,Capilar Obstruído,Carga De Gás Refrigerante,Recarga De Gás,Obstrução,Congelador
+26860.0,4978.0,5370.0,Capilar Obstruído,Reparo No Auto-Fechamento,Reparo,Obstrução,Refrigerador
+26860.0,4990.0,5370.0,Capilar Obstruído,Troca De Capilar,Refrigeração,Obstrução,Refrigerador
+26860.0,4990.0,5370.0,Capilar Obstruído,Troca De Capilar,Refrigeração,Obstrução,Refrigerador
+26860.0,4990.0,7634.0,Capilar Obstruído,Troca De Capilar,Refrigeração,Obstrução,Congelador
+26861.0,4989.0,5370.0,Capacitor Queimado,Troca De Capacitor,Sistema Elétrico,Elétrico,Refrigerador
+26861.0,4989.0,5370.0,Capacitor Queimado,Troca De Capacitor,Sistema Elétrico,Elétrico,Refrigerador
+26861.0,4991.0,5370.0,Capacitor Queimado,Troca De Compressor,Refrigeração,Elétrico,Refrigerador
+26861.0,5000.0,5370.0,Capacitor Queimado,Troca De Protetor Térmico,Troca De Peça,Elétrico,Refrigerador
+26861.0,5002.0,5370.0,Capacitor Queimado,Troca De Relé,Troca De Peça,Elétrico,Refrigerador
+26861.0,5003.0,5370.0,Capacitor Queimado,Troca De Termostato,Sensores / Controle,Elétrico,Refrigerador
+26861.0,5047.0,7634.0,Capacitor Queimado,Troca De Capacitor,Sistema Elétrico,Elétrico,Congelador
+26861.0,6161.0,5370.0,Capacitor Queimado,Troca De Capacitor,Sistema Elétrico,Elétrico,Refrigerador
+27004.0,5077.0,5373.0,Agitador Travado,Troca/Reparo Em Agitador,Motor / Bomba,Motores,Chopeira
+27004.0,5077.0,5371.0,Agitador Travado,Troca/Reparo Em Agitador,Motor / Bomba,Motores,Post Mix
+27005.0,5072.0,5373.0,Bomba De Recirculação Com Defeito,Troca/Reparo Em Bomba De Recirculação,Motor / Bomba,Motores,Chopeira
+27005.0,5072.0,5371.0,Bomba De Recirculação Com Defeito,Troca/Reparo Em Bomba De Recirculação,Motor / Bomba,Motores,Post Mix
+27006.0,5055.0,5373.0,Carbonatador Com Defeito,Troca/Reparo Em Carbonatador,Reparo,Refrigeração,Chopeira
+27006.0,5055.0,5371.0,Carbonatador Com Defeito,Troca/Reparo Em Carbonatador,Reparo,Refrigeração,Post Mix
+27007.0,5076.0,5371.0,Carcaça Do Filtro Rompida,Troca De Carcaça/Filtro De Água,Produto / Insumo,Água,Post Mix
+27007.0,5076.0,5373.0,Carcaça Do Filtro Rompida,Troca De Carcaça/Filtro De Água,Produto / Insumo,Água,Chopeira
+27008.0,5064.0,5373.0,Conector Com Defeito,Troca De Conector,Troca De Peça,Elétrico,Chopeira
+27008.0,5064.0,5371.0,Conector Com Defeito,Troca De Conector,Troca De Peça,Elétrico,Post Mix
+27009.0,5147.0,5375.0,Fechadura Com Defeito,Troca Da Fechadura,Troca De Peça,Estrutura,Maquina De Cafe
+27010.0,5074.0,5373.0,Mangueira Com Problema,Troca Mangueira De Alta Pressão,Troca De Peça,Refrigeração,Chopeira
+27010.0,5074.0,5371.0,Mangueira Com Problema,Troca Mangueira De Alta Pressão,Troca De Peça,Refrigeração,Post Mix
+27011.0,5121.0,5375.0,Solenoide Com Defeito,Troca De Solenoide,Troca De Peça,Elétrico,Maquina De Cafe
+27012.0,5078.0,5371.0,Nível De Alcóol Baixo,Troca/Completar Nível Do Álcool,Troca De Peça,Outros,Post Mix
+27012.0,5078.0,5373.0,Nível De Alcóol Baixo,Troca/Completar Nível Do Álcool,Troca De Peça,Outros,Chopeira
+27014.0,5066.0,5373.0,Sem Co²,Troca De Cilindro De Co²,Produto / Insumo,Refrigeração,Chopeira
+27014.0,5066.0,5371.0,Sem Co²,Troca De Cilindro De Co²,Produto / Insumo,Refrigeração,Post Mix
+27014.0,5068.0,5371.0,Sem Co²,Abrir Registro Do Cilindro De Co²,Produto / Insumo,Refrigeração,Post Mix
+27014.0,5068.0,5373.0,Sem Co²,Abrir Registro Do Cilindro De Co²,Produto / Insumo,Refrigeração,Chopeira
+27015.0,5065.0,5371.0,Válvula Extratora Com Defeito,Troca/Reparo Em Válvula Extratora,Reparo,Refrigeração,Post Mix
+27015.0,5065.0,5373.0,Válvula Extratora Com Defeito,Troca/Reparo Em Válvula Extratora,Reparo,Refrigeração,Chopeira
+27016.0,5086.0,5373.0,Válvulas Desreguladas,Troca De Base Da Válvula Dispensadora,Troca De Peça,Refrigeração,Chopeira
+27016.0,5086.0,5371.0,Válvulas Desreguladas,Troca De Base Da Válvula Dispensadora,Troca De Peça,Refrigeração,Post Mix
+27017.0,5062.0,5373.0,Vazamento De Água,Troca Mangueiras Xarope/Água,Produto / Insumo,Água,Chopeira
+27017.0,5062.0,5371.0,Vazamento De Água,Troca Mangueiras Xarope/Água,Produto / Insumo,Água,Post Mix
+27017.0,5089.0,5371.0,Vazamento De Água,Troca De Espigão,Troca De Peça,Água,Post Mix
+27017.0,5089.0,5373.0,Vazamento De Água,Troca De Espigão,Troca De Peça,Água,Chopeira
+27018.0,5063.0,5373.0,Vazamento De Chopp,Troca/Reparo Válvula Dispensadora Ch,Reparo,Produto,Chopeira
+27018.0,5063.0,5371.0,Vazamento De Chopp,Troca/Reparo Válvula Dispensadora Ch,Reparo,Produto,Post Mix
+27020.0,5067.0,5371.0,Aferição De Manômetro,Aferição De Manômetro,Ajuste / Regulagem,Refrigeração,Post Mix
+27020.0,5067.0,5373.0,Aferição De Manômetro,Aferição De Manômetro,Ajuste / Regulagem,Refrigeração,Chopeira
+27021.0,5046.0,5371.0,Bomba De Xarope Com Defeito,Troca/Reparo Em Bomba De Xarope,Produto / Insumo,Produto,Post Mix
+27021.0,7499.0,5373.0,Bomba De Xarope Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Produto,Chopeira
+27022.0,5075.0,5371.0,Entrada De Ar No Sistema,Sangrar Linha De Xarope/Água,Produto / Insumo,Refrigeração,Post Mix
+27022.0,5075.0,5373.0,Entrada De Ar No Sistema,Sangrar Linha De Xarope/Água,Produto / Insumo,Refrigeração,Chopeira
+27023.0,5045.0,5373.0,Não Gela,Troca/Reparo Unidade De Refrigeração,Reparo,Refrigeração,Chopeira
+27023.0,5045.0,5371.0,Não Gela,Troca/Reparo Unidade De Refrigeração,Reparo,Refrigeração,Post Mix
+27024.0,5140.0,5375.0,Sensor De Condutividade Com Defeito,Troca Do Sensor De Condutividade,Sensores / Controle,Sensores,Maquina De Cafe
+27025.0,5080.0,5373.0,Refil Do Filtro D Água Saturado,Troca De Refil Do Filtro D Água,Produto / Insumo,Água,Chopeira
+27025.0,5080.0,5371.0,Refil Do Filtro D Água Saturado,Troca De Refil Do Filtro D Água,Produto / Insumo,Água,Post Mix
+27026.0,5056.0,5373.0,Registro De Água Fechado,Abrir Registro De Água,Produto / Insumo,Água,Chopeira
+27026.0,5056.0,5371.0,Registro De Água Fechado,Abrir Registro De Água,Produto / Insumo,Água,Post Mix
+27027.0,5061.0,5373.0,Regulador De Pressão C/ Defeito,Troca/Reparo Regulador De Pressão,Ajuste / Regulagem,Refrigeração,Chopeira
+27027.0,5061.0,5371.0,Regulador De Pressão C/ Defeito,Troca/Reparo Regulador De Pressão,Ajuste / Regulagem,Refrigeração,Post Mix
+27028.0,5128.0,7634.0,Resistência Queimada,Troca De Resistência,Troca De Peça,Elétrico,Congelador
+27028.0,5128.0,5375.0,Resistência Queimada,Troca De Resistência,Troca De Peça,Elétrico,Maquina De Cafe
+27028.0,5131.0,7634.0,Resistência Queimada,Troca De Termostato,Sensores / Controle,Elétrico,Congelador
+27028.0,5501.0,7634.0,Resistência Queimada,Troca Da Fiação,Sistema Elétrico,Elétrico,Congelador
+27028.0,5654.0,7634.0,Resistência Queimada,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Congelador
+27029.0,5049.0,5371.0,Sensor De Gelo Com Defeito,Troca Do Sensor De Nível,Sensores / Controle,Sensores,Post Mix
+27029.0,5049.0,5373.0,Sensor De Gelo Com Defeito,Troca Do Sensor De Nível,Sensores / Controle,Sensores,Chopeira
+27029.0,5081.0,5371.0,Sensor De Gelo Com Defeito,Troca De Sensor De Gelo,Sensores / Controle,Sensores,Post Mix
+27029.0,5081.0,5373.0,Sensor De Gelo Com Defeito,Troca De Sensor De Gelo,Sensores / Controle,Sensores,Chopeira
+27030.0,5082.0,5373.0,Sensor De Nível Com Defeito,Sensor De Nível Com Defeito,Sensores / Controle,Sensores,Chopeira
+27030.0,5082.0,5371.0,Sensor De Nível Com Defeito,Sensor De Nível Com Defeito,Sensores / Controle,Sensores,Post Mix
+27031.0,5057.0,5373.0,Serpentina Obstruída,Troca/Reparo Em Serpentina,Reparo,Obstrução,Chopeira
+27031.0,5057.0,5371.0,Serpentina Obstruída,Troca/Reparo Em Serpentina,Reparo,Obstrução,Post Mix
+27032.0,5063.0,5371.0,Válvula Dispensadora Ch Com Defeito,Troca/Reparo Válvula Dispensadora Ch,Reparo,Refrigeração,Post Mix
+27032.0,5063.0,5373.0,Válvula Dispensadora Ch Com Defeito,Troca/Reparo Válvula Dispensadora Ch,Reparo,Refrigeração,Chopeira
+27033.0,5062.0,5373.0,Vazamento De Xarope,Troca Mangueiras Xarope/Água,Produto / Insumo,Produto,Chopeira
+27033.0,5062.0,5371.0,Vazamento De Xarope,Troca Mangueiras Xarope/Água,Produto / Insumo,Produto,Post Mix
+27037.0,5060.0,5371.0,Válvula Dispensadora Pm Com Defeito,Troca/Reparo Em Válvula P Mix,Reparo,Refrigeração,Post Mix
+27037.0,5085.0,5371.0,Válvula Dispensadora Pm Com Defeito,Trocar Bico Misturador/Difusor,Troca De Peça,Refrigeração,Post Mix
+27215.0,5133.0,5375.0,Vazamento De Produto,Troca De Produto,Produto / Insumo,Produto,Maquina De Cafe
+27216.0,5045.0,5371.0,Compressor Com Defeito,Troca/Reparo Unidade De Refrigeração,Reparo,Refrigeração,Post Mix
+27216.0,5045.0,5373.0,Compressor Com Defeito,Troca/Reparo Unidade De Refrigeração,Reparo,Refrigeração,Chopeira
+27216.0,7499.0,5370.0,Compressor Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+27216.0,7499.0,5370.0,Compressor Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+27217.0,5047.0,5373.0,Capacitor Queimado,Troca De Capacitor,Sistema Elétrico,Elétrico,Chopeira
+27217.0,5047.0,5371.0,Capacitor Queimado,Troca De Capacitor,Sistema Elétrico,Elétrico,Post Mix
+27219.0,5051.0,5371.0,Equipamento Sujo,Sanitização,Limpeza,Limpeza,Post Mix
+27219.0,5051.0,5373.0,Equipamento Sujo,Sanitização,Limpeza,Limpeza,Chopeira
+27219.0,5088.0,5373.0,Equipamento Sujo,Trocar Água Do Gabinete,Produto / Insumo,Limpeza,Chopeira
+27219.0,5088.0,5371.0,Equipamento Sujo,Trocar Água Do Gabinete,Produto / Insumo,Limpeza,Post Mix
+27220.0,5050.0,5371.0,Produto Com Sabor Alterado,Regular Proporção De Xarope,Produto / Insumo,Produto,Post Mix
+27220.0,5050.0,5373.0,Produto Com Sabor Alterado,Regular Proporção De Xarope,Produto / Insumo,Produto,Chopeira
+27221.0,5052.0,5373.0,Protetor Térmico Com Defeito,Troca De Lâmpada,Troca De Peça,Elétrico,Chopeira
+27221.0,5052.0,5371.0,Protetor Térmico Com Defeito,Troca De Lâmpada,Troca De Peça,Elétrico,Post Mix
+27221.0,7090.0,5370.0,Protetor Térmico Com Defeito,Ordem De Piso (Retrabalho),Troca Equipamento,Elétrico,Refrigerador
+27221.0,7091.0,5370.0,Protetor Térmico Com Defeito,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Elétrico,Refrigerador
+27221.0,7092.0,5370.0,Protetor Térmico Com Defeito,Regulagem De Porta,Estrutura,Elétrico,Refrigerador
+27223.0,5051.0,5373.0,Condensador Obstruído/ Sujo,Sanitização,Limpeza,Limpeza,Chopeira
+27223.0,5051.0,5371.0,Condensador Obstruído/ Sujo,Sanitização,Limpeza,Limpeza,Post Mix
+27225.0,5058.0,5373.0,Defeito No Barril,Pedido De Troca Do Produto,Produto / Insumo,Produto,Chopeira
+27225.0,5058.0,5371.0,Defeito No Barril,Pedido De Troca Do Produto,Produto / Insumo,Produto,Post Mix
+27226.0,5059.0,5371.0,Sem Condições De Reparo No Gabinete,Sem Condições De Reparo No Gabinete,Estrutura,Estrutura,Post Mix
+27226.0,5059.0,5373.0,Sem Condições De Reparo No Gabinete,Sem Condições De Reparo No Gabinete,Estrutura,Estrutura,Chopeira
+27226.0,5071.0,5371.0,Sem Condições De Reparo No Gabinete,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Post Mix
+27228.0,5070.0,5373.0,Fusível Queimado,Trocar Fusível,Sistema Elétrico,Elétrico,Chopeira
+27228.0,5070.0,5371.0,Fusível Queimado,Trocar Fusível,Sistema Elétrico,Elétrico,Post Mix
+27229.0,5073.0,5373.0,Protetor Térmico Com Defeito,Troca De Protetor Térmico,Troca De Peça,Elétrico,Chopeira
+27229.0,5073.0,5371.0,Protetor Térmico Com Defeito,Troca De Protetor Térmico,Troca De Peça,Elétrico,Post Mix
+27230.0,5046.0,5371.0,Defeito No Bag In Box,Troca/Reparo Em Bomba De Xarope,Produto / Insumo,Produto,Post Mix
+27230.0,5046.0,5373.0,Defeito No Bag In Box,Troca/Reparo Em Bomba De Xarope,Produto / Insumo,Produto,Chopeira
+27231.0,5079.0,5371.0,Transformador Queimado,Troca De Transformador,Sistema Elétrico,Elétrico,Post Mix
+27231.0,5079.0,5373.0,Transformador Queimado,Troca De Transformador,Sistema Elétrico,Elétrico,Chopeira
+27232.0,5083.0,5371.0,Coleta De Água,Coleta De Água Para Análise,Produto / Insumo,Água,Post Mix
+27232.0,5083.0,5373.0,Coleta De Água,Coleta De Água Para Análise,Produto / Insumo,Água,Chopeira
+27235.0,4987.0,5376.0,Variação De Tensão No Local,Troca/Reparo Unidade De Refrigeração,Reparo,Elétrico,Vending Machine
+27235.0,5105.0,5376.0,Variação De Tensão No Local,Troca/Reparo Unidade De Refrigeração,Reparo,Elétrico,Vending Machine
+27235.0,5116.0,5376.0,Variação De Tensão No Local,Troca De Transformador,Sistema Elétrico,Elétrico,Vending Machine
+27235.0,5116.0,5376.0,Variação De Tensão No Local,Troca De Transformador,Sistema Elétrico,Elétrico,Vending Machine
+27236.0,5097.0,5376.0,Botoeira Com Defeito,Troca/Reparo Em Botoeira,Reparo,Elétrico,Vending Machine
+27236.0,5097.0,5376.0,Botoeira Com Defeito,Troca/Reparo Em Botoeira,Reparo,Elétrico,Vending Machine
+27237.0,5104.0,5376.0,Termostato Com Defeito,Troca/Reparo Em Termostato,Sensores / Controle,Sensores,Vending Machine
+27237.0,5104.0,5376.0,Termostato Com Defeito,Troca/Reparo Em Termostato,Sensores / Controle,Sensores,Vending Machine
+27238.0,5092.0,5376.0,Canaleta Fora De Posição,Desobstrução De Canaletas,Limpeza,Estrutura,Vending Machine
+27238.0,7499.0,5370.0,Canaleta Fora De Posição,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+27238.0,7499.0,5370.0,Canaleta Fora De Posição,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+27241.0,5110.0,5376.0,Lâmpada Queimada,Troca/Reparo Suporte De Lâmpada,Reparo,Iluminação,Vending Machine
+27241.0,5110.0,5376.0,Lâmpada Queimada,Troca/Reparo Suporte De Lâmpada,Reparo,Iluminação,Vending Machine
+27241.0,5114.0,5376.0,Lâmpada Queimada,Troca De Lâmpada,Troca De Peça,Iluminação,Vending Machine
+27241.0,5114.0,5376.0,Lâmpada Queimada,Troca De Lâmpada,Troca De Peça,Iluminação,Vending Machine
+27241.0,6393.0,5370.0,Lâmpada Queimada,Ajuste No Led,Ajuste / Regulagem,Iluminação,Refrigerador
+27243.0,5095.0,5376.0,Programação Errada,Reprogramação,Sensores / Controle,Controle Eletrônico,Vending Machine
+27243.0,5095.0,5376.0,Programação Errada,Reprogramação,Sensores / Controle,Controle Eletrônico,Vending Machine
+27243.0,5096.0,5376.0,Programação Errada,Troca/Reparo Sensor Temperatura,Sensores / Controle,Controle Eletrônico,Vending Machine
+27243.0,5096.0,5376.0,Programação Errada,Troca/Reparo Sensor Temperatura,Sensores / Controle,Controle Eletrônico,Vending Machine
+27243.0,5103.0,5376.0,Programação Errada,Troca/Reparo Sensor De Batida,Sensores / Controle,Controle Eletrônico,Vending Machine
+27243.0,5103.0,5376.0,Programação Errada,Troca/Reparo Sensor De Batida,Sensores / Controle,Controle Eletrônico,Vending Machine
+27243.0,5105.0,5376.0,Programação Errada,Troca/Reparo Unidade De Refrigeração,Reparo,Controle Eletrônico,Vending Machine
+27243.0,5105.0,5376.0,Programação Errada,Troca/Reparo Unidade De Refrigeração,Reparo,Controle Eletrônico,Vending Machine
+27243.0,5111.0,5376.0,Programação Errada,Troca/Reparo Em Moedeiro,Reparo,Controle Eletrônico,Vending Machine
+27243.0,5111.0,5376.0,Programação Errada,Troca/Reparo Em Moedeiro,Reparo,Controle Eletrônico,Vending Machine
+27244.0,5106.0,5376.0,Aceitador De Notas Não Conectado,Troca/Reparo Em Bill Acceptor,Reparo,Moedeiro / Pagamento,Vending Machine
+27244.0,5106.0,5376.0,Aceitador De Notas Não Conectado,Troca/Reparo Em Bill Acceptor,Reparo,Moedeiro / Pagamento,Vending Machine
+27246.0,5093.0,5376.0,Nota Presa,Desobstrução Dos Aceitadores,Limpeza,Moedeiro / Pagamento,Vending Machine
+27246.0,5093.0,5376.0,Nota Presa,Desobstrução Dos Aceitadores,Limpeza,Moedeiro / Pagamento,Vending Machine
+27247.0,5098.0,5376.0,Chicote Danificado,Troca/Reparo Chicote Elétrico,Reparo,Elétrico,Vending Machine
+27247.0,5098.0,5376.0,Chicote Danificado,Troca/Reparo Chicote Elétrico,Reparo,Elétrico,Vending Machine
+27248.0,5099.0,5376.0,Placa Eletrônica,Troca/Reparo Em Contador,Reparo,Controle Eletrônico,Vending Machine
+27248.0,5099.0,5376.0,Placa Eletrônica,Troca/Reparo Em Contador,Reparo,Controle Eletrônico,Vending Machine
+27248.0,5108.0,5376.0,Placa Eletrônica,Troca/Reparo Na Placa Eletrônica,Sensores / Controle,Controle Eletrônico,Vending Machine
+27248.0,5108.0,5376.0,Placa Eletrônica,Troca/Reparo Na Placa Eletrônica,Sensores / Controle,Controle Eletrônico,Vending Machine
+27248.0,5224.0,7634.0,Placa Eletrônica,Troca Do Display,Sensores / Controle,Controle Eletrônico,Congelador
+27248.0,5648.0,7634.0,Placa Eletrônica,Ajuste De Parâmetros,Ajuste / Regulagem,Controle Eletrônico,Congelador
+27249.0,5102.0,5376.0,Miolo De Fechadura Com Problema,Troca/Reparo Em Porta,Estrutura,Estrutura,Vending Machine
+27249.0,5102.0,5376.0,Miolo De Fechadura Com Problema,Troca/Reparo Em Porta,Estrutura,Estrutura,Vending Machine
+27250.0,5107.0,5376.0,Fechadura Com Problema,Troca/Reparo Na Fechadura,Reparo,Estrutura,Vending Machine
+27250.0,5107.0,5376.0,Fechadura Com Problema,Troca/Reparo Na Fechadura,Reparo,Estrutura,Vending Machine
+27251.0,5118.0,5376.0,Indicadores Em Mau Estado,Troca Dos Indicadores De Sabor,Troca De Peça,Estrutura,Vending Machine
+27251.0,5118.0,5376.0,Indicadores Em Mau Estado,Troca Dos Indicadores De Sabor,Troca De Peça,Estrutura,Vending Machine
+27252.0,5093.0,5376.0,Objetos Obstruindo Dinheiro,Desobstrução Dos Aceitadores,Limpeza,Moedeiro / Pagamento,Vending Machine
+27252.0,5093.0,5376.0,Objetos Obstruindo Dinheiro,Desobstrução Dos Aceitadores,Limpeza,Moedeiro / Pagamento,Vending Machine
+27253.0,5112.0,5376.0,Lâmpada Queimada,Troca De Display,Sensores / Controle,Iluminação,Vending Machine
+27253.0,7090.0,5370.0,Lâmpada Queimada,Ordem De Piso (Retrabalho),Troca Equipamento,Iluminação,Refrigerador
+27253.0,7091.0,5370.0,Lâmpada Queimada,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Iluminação,Refrigerador
+27253.0,7092.0,5370.0,Lâmpada Queimada,Regulagem De Porta,Estrutura,Iluminação,Refrigerador
+27254.0,5101.0,5376.0,Micro Switch Danificado,Troca/Reparo Em Micro Switch,Reparo,Motores,Vending Machine
+27254.0,5101.0,5376.0,Micro Switch Danificado,Troca/Reparo Em Micro Switch,Reparo,Motores,Vending Machine
+27255.0,5115.0,5376.0,Start Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Vending Machine
+27255.0,5115.0,5376.0,Start Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Vending Machine
+27255.0,7090.0,5370.0,Start Queimado,Ordem De Piso (Retrabalho),Troca Equipamento,Elétrico,Refrigerador
+27255.0,7091.0,5370.0,Start Queimado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Elétrico,Refrigerador
+27255.0,7092.0,5370.0,Start Queimado,Regulagem De Porta,Estrutura,Elétrico,Refrigerador
+27256.0,5103.0,5376.0,Sensor De Batida Desregulado,Troca/Reparo Sensor De Batida,Sensores / Controle,Ajuste / Regulagem,Vending Machine
+27256.0,5103.0,5376.0,Sensor De Batida Desregulado,Troca/Reparo Sensor De Batida,Sensores / Controle,Ajuste / Regulagem,Vending Machine
+27257.0,5111.0,5376.0,Moedeiro Fora De Posição,Troca/Reparo Em Moedeiro,Reparo,Moedeiro / Pagamento,Vending Machine
+27257.0,5111.0,5376.0,Moedeiro Fora De Posição,Troca/Reparo Em Moedeiro,Reparo,Moedeiro / Pagamento,Vending Machine
+27258.0,5100.0,5376.0,Home Sensor Danificado,Troca/Reparo Em Home Sensor,Sensores / Controle,Sensores,Vending Machine
+27258.0,5100.0,5376.0,Home Sensor Danificado,Troca/Reparo Em Home Sensor,Sensores / Controle,Sensores,Vending Machine
+27259.0,5109.0,5376.0,Conjunto De Correntes Quebrado,Troca/Reparo Conjunto De Corrente,Reparo,Estrutura,Vending Machine
+27259.0,5109.0,5376.0,Conjunto De Correntes Quebrado,Troca/Reparo Conjunto De Corrente,Reparo,Estrutura,Vending Machine
+27262.0,5131.0,5375.0,Não Liga,Troca De Termostato,Sensores / Controle,Elétrico,Maquina De Cafe
+27262.0,5132.0,5375.0,Não Liga,Troca De Refil Filtro De Água,Produto / Insumo,Elétrico,Maquina De Cafe
+27262.0,5146.0,5375.0,Não Liga,Troca Do Plug,Sistema Elétrico,Elétrico,Maquina De Cafe
+27263.0,5127.0,5375.0,Pest Control Com Defeito,Troca Do Pest Control,Troca De Peça,Sanitização / Contaminação,Maquina De Cafe
+27264.0,5122.0,5375.0,Regulagem Do Produto,Regulagem Do Produto,Produto / Insumo,Ajuste / Regulagem,Maquina De Cafe
+27265.0,5125.0,5375.0,Cliente Não Fez Retrolavagem,Falta De Retrolavagem,Outros,Limpeza,Maquina De Cafe
+27266.0,5126.0,5375.0,Vazamento De Água,Retirada De Vazamento De Água,Produto / Insumo,Água,Maquina De Cafe
+27266.0,5129.0,5375.0,Vazamento De Água,Troca De Mangueiras,Troca De Peça,Água,Maquina De Cafe
+27267.0,5120.0,5375.0,Lâmpada Queimada,Troca De Lâmpada,Troca De Peça,Iluminação,Maquina De Cafe
+27269.0,5124.0,5375.0,Falta De Água,Falta De Água,Produto / Insumo,Água,Maquina De Cafe
+27270.0,5137.0,5375.0,Motor De Insumo Com Defeito,Troca Do Motor De Insumo,Motor / Bomba,Motores,Maquina De Cafe
+27271.0,5148.0,5375.0,Gabinete Com Defeito,Reparo No Gabinete,Estrutura,Estrutura,Maquina De Cafe
+27272.0,5139.0,5375.0,Carcaça Do Filtro Com Defeito,Troca Da Carcaça Do Filtro,Produto / Insumo,Água,Maquina De Cafe
+27273.0,5132.0,5375.0,Manutenção Preventiva,Troca De Refil Filtro De Água,Produto / Insumo,Outros,Maquina De Cafe
+27274.0,5130.0,5375.0,Conector Com Defeito,Troca De Anel De Vedação,Troca De Peça,Elétrico,Maquina De Cafe
+27274.0,5134.0,5375.0,Conector Com Defeito,Troca De Espigão,Troca De Peça,Elétrico,Maquina De Cafe
+27274.0,5135.0,5375.0,Conector Com Defeito,Troca De Conector,Troca De Peça,Elétrico,Maquina De Cafe
+27275.0,5138.0,5375.0,Motor Batedor Com Defeito,Troca Do Motor Batedor,Motor / Bomba,Motores,Maquina De Cafe
+27276.0,5136.0,5375.0,Bomba Com Defeito,Troca Da Bomba De Café,Motor / Bomba,Motores,Maquina De Cafe
+27276.0,5141.0,5375.0,Bomba Com Defeito,Troca Da Bomba De Água,Produto / Insumo,Motores,Maquina De Cafe
+27702.0,5216.0,5370.0,Umidade No Sistema,Troca Do Filtro E Carga De Gás,Produto / Insumo,Refrigeração,Refrigerador
+27702.0,5216.0,5370.0,Umidade No Sistema,Troca Do Filtro E Carga De Gás,Produto / Insumo,Refrigeração,Refrigerador
+27703.0,5217.0,5370.0,Controlador Danificado,Troca Do Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+27703.0,5217.0,5370.0,Controlador Danificado,Troca Do Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+27704.0,5217.0,5370.0,Controlador Queimado,Troca Do Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+27704.0,5217.0,5370.0,Controlador Queimado,Troca Do Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+27705.0,5218.0,5370.0,Equipamento Amassado,Funilaria E Pintura,Estrutura,Estrutura,Refrigerador
+27705.0,5218.0,5370.0,Equipamento Amassado,Funilaria E Pintura,Estrutura,Estrutura,Refrigerador
+27706.0,5219.0,5370.0,Imagem Danificada,Reforma,Outros,Estrutura,Refrigerador
+27706.0,5219.0,5370.0,Imagem Danificada,Reforma,Outros,Estrutura,Refrigerador
+27707.0,5220.0,5370.0,Pintura,Pintura Geral,Estrutura,Estrutura,Refrigerador
+27707.0,5220.0,5370.0,Pintura,Pintura Geral,Estrutura,Estrutura,Refrigerador
+27707.0,5221.0,5370.0,Pintura,Pintura Interna,Estrutura,Estrutura,Refrigerador
+27707.0,5221.0,5370.0,Pintura,Pintura Interna,Estrutura,Estrutura,Refrigerador
+27707.0,5222.0,5370.0,Pintura,Pintura Externa,Estrutura,Estrutura,Refrigerador
+27707.0,5222.0,5370.0,Pintura,Pintura Externa,Estrutura,Estrutura,Refrigerador
+27708.0,5223.0,5370.0,Controlador,Troca Da Placa,Sensores / Controle,Controle Eletrônico,Refrigerador
+27708.0,5224.0,5370.0,Controlador,Troca Do Display,Sensores / Controle,Controle Eletrônico,Refrigerador
+27708.0,5225.0,7634.0,Controlador,Troca Do Display E Placa,Sensores / Controle,Controle Eletrônico,Congelador
+27708.0,5225.0,5370.0,Controlador,Troca Do Display E Placa,Sensores / Controle,Controle Eletrônico,Refrigerador
+27708.0,5236.0,5370.0,Controlador,Ajuste Nos Parâmetros,Ajuste / Regulagem,Controle Eletrônico,Refrigerador
+27708.0,5236.0,5370.0,Controlador,Ajuste Nos Parâmetros,Ajuste / Regulagem,Controle Eletrônico,Refrigerador
+27708.0,5501.0,7634.0,Controlador,Troca Da Fiação,Sistema Elétrico,Controle Eletrônico,Congelador
+27708.0,8222.0,5370.0,Controlador,Ajuste Nos Parâmetros Do Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+27708.0,8222.0,5370.0,Controlador,Ajuste Nos Parâmetros Do Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+27710.0,5229.0,5370.0,Vazamento No Evaporador,Troca Do Evaporador,Refrigeração,Vazamento,Refrigerador
+27710.0,5230.0,5370.0,Vazamento No Evaporador,Troca Do Evaporador E Filtro,Produto / Insumo,Vazamento,Refrigerador
+27710.0,7499.0,5370.0,Vazamento No Evaporador,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+27710.0,7499.0,5370.0,Vazamento No Evaporador,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+27752.0,5243.0,5371.0,Com Produto Da Concorrência,Sacar Produto Da Concorrência,Produto / Insumo,Produto,Post Mix
+27752.0,5243.0,5373.0,Com Produto Da Concorrência,Sacar Produto Da Concorrência,Produto / Insumo,Produto,Chopeira
+27752.0,5250.0,5373.0,Com Produto Da Concorrência,Reciclagem Junto Ao Cliente,Orientação Cliente,Produto,Chopeira
+27752.0,5250.0,5371.0,Com Produto Da Concorrência,Reciclagem Junto Ao Cliente,Orientação Cliente,Produto,Post Mix
+27753.0,5054.0,5373.0,Tomada Desligada,Religar Contato/Tomada,Sistema Elétrico,Elétrico,Chopeira
+27753.0,5252.0,5373.0,Tomada Desligada,Troca/Reparo De Extensão,Reparo,Elétrico,Chopeira
+28637.0,4980.0,7634.0,Compressor Com Corrente Alta,Regulagem De Termostato,Sensores / Controle,Refrigeração,Congelador
+28637.0,4991.0,5370.0,Compressor Com Corrente Alta,Troca De Compressor,Refrigeração,Refrigeração,Refrigerador
+28637.0,4992.0,7634.0,Compressor Com Corrente Alta,Troca De Contato/Tomada,Sistema Elétrico,Refrigeração,Congelador
+28637.0,5501.0,5370.0,Compressor Com Corrente Alta,Troca Da Fiação,Sistema Elétrico,Refrigeração,Refrigerador
+28637.0,5654.0,7634.0,Compressor Com Corrente Alta,Revisão Geral No Sistema Elétrico,Outros,Refrigeração,Congelador
+28638.0,4999.0,5370.0,Auto- Fechamento Quebrado,Troca De Porta,Estrutura,Estrutura,Refrigerador
+28638.0,4999.0,7634.0,Auto- Fechamento Quebrado,Troca De Porta,Estrutura,Estrutura,Congelador
+28638.0,5500.0,5370.0,Auto- Fechamento Quebrado,Trocar Auto-Fechamento,Troca De Peça,Estrutura,Refrigerador
+28638.0,5500.0,7634.0,Auto- Fechamento Quebrado,Trocar Auto-Fechamento,Troca De Peça,Estrutura,Congelador
+28638.0,6149.0,7634.0,Auto- Fechamento Quebrado,Reparo No Auto-Fechamento,Reparo,Estrutura,Congelador
+28638.0,6150.0,7634.0,Auto- Fechamento Quebrado,Troca De Auto-Fechamento,Troca De Peça,Estrutura,Congelador
+28638.0,6150.0,5370.0,Auto- Fechamento Quebrado,Troca De Auto-Fechamento,Troca De Peça,Estrutura,Refrigerador
+28639.0,4971.0,5370.0,Resistência De Degelo Com Defeito,Desativar Resistência,Outros,Elétrico,Refrigerador
+28639.0,5003.0,5370.0,Resistência De Degelo Com Defeito,Troca De Termostato,Sensores / Controle,Elétrico,Refrigerador
+28639.0,5128.0,5370.0,Resistência De Degelo Com Defeito,Troca De Resistência,Troca De Peça,Elétrico,Refrigerador
+28639.0,5501.0,5370.0,Resistência De Degelo Com Defeito,Troca Da Fiação,Sistema Elétrico,Elétrico,Refrigerador
+28640.0,5502.0,5370.0,Controlador Com Defeito,Ajuste Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+28640.0,5502.0,7634.0,Controlador Com Defeito,Ajuste Controlador,Sensores / Controle,Controle Eletrônico,Congelador
+28640.0,5508.0,5370.0,Controlador Com Defeito,Troca Do Cabeamento,Troca De Peça,Controle Eletrônico,Refrigerador
+28640.0,5654.0,7634.0,Controlador Com Defeito,Revisão Geral No Sistema Elétrico,Outros,Controle Eletrônico,Congelador
+28640.0,6186.0,7634.0,Controlador Com Defeito,Troca De Cabeamento Do Termostato,Sensores / Controle,Controle Eletrônico,Congelador
+28640.0,6717.0,5370.0,Controlador Com Defeito,Troca Do Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+28640.0,7090.0,5370.0,Controlador Com Defeito,Ordem De Piso (Retrabalho),Troca Equipamento,Controle Eletrônico,Refrigerador
+28640.0,7091.0,5370.0,Controlador Com Defeito,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Controle Eletrônico,Refrigerador
+28640.0,7092.0,5370.0,Controlador Com Defeito,Regulagem De Porta,Estrutura,Controle Eletrônico,Refrigerador
+28640.0,7499.0,5370.0,Controlador Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+28640.0,7499.0,5370.0,Controlador Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+28641.0,5081.0,5370.0,Sensor De Temperatura Com Defeito,Troca De Sensor De Gelo,Sensores / Controle,Sensores,Refrigerador
+28641.0,5504.0,5370.0,Sensor De Temperatura Com Defeito,Troca Do Sensor De Temperatura,Sensores / Controle,Sensores,Refrigerador
+28642.0,4995.0,7634.0,Gaxeta/Porta Sem Vedação,Troca De Gaxeta,Estrutura,Estrutura,Congelador
+28642.0,5505.0,5370.0,Gaxeta/Porta Sem Vedação,Troca/Ajuste Da Porta Ou Gaxeta,Estrutura,Estrutura,Refrigerador
+28642.0,5505.0,7634.0,Gaxeta/Porta Sem Vedação,Troca/Ajuste Da Porta Ou Gaxeta,Estrutura,Estrutura,Congelador
+28643.0,4982.0,5370.0,Falta De Aterramento,Solicitar Troca De Equipamento,Troca Equipamento,Elétrico,Refrigerador
+28643.0,5506.0,5370.0,Falta De Aterramento,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Refrigerador
+28643.0,5507.0,7634.0,Falta De Aterramento,Troca Cabo De Força,Sistema Elétrico,Elétrico,Congelador
+28643.0,5507.0,5370.0,Falta De Aterramento,Troca Cabo De Força,Sistema Elétrico,Elétrico,Refrigerador
+28643.0,5654.0,7634.0,Falta De Aterramento,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Congelador
+28644.0,5112.0,7634.0,Controlador Com Defeito,Troca De Display,Sensores / Controle,Controle Eletrônico,Congelador
+28644.0,5236.0,7634.0,Controlador Com Defeito,Ajuste Nos Parâmetros,Ajuste / Regulagem,Controle Eletrônico,Congelador
+28644.0,5502.0,7634.0,Controlador Com Defeito,Ajuste Controlador,Sensores / Controle,Controle Eletrônico,Congelador
+28644.0,6177.0,7634.0,Controlador Com Defeito,Troca De Controlador,Sensores / Controle,Controle Eletrônico,Congelador
+28644.0,6178.0,7634.0,Controlador Com Defeito,Reparo De Controlador,Sensores / Controle,Controle Eletrônico,Congelador
+28644.0,7499.0,5370.0,Controlador Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+28644.0,7499.0,5370.0,Controlador Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+28644.0,8222.0,5370.0,Controlador Com Defeito,Ajuste Nos Parâmetros Do Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+28645.0,4969.0,5370.0,Evaporador Com Vazamento,Carga De Gás Refrigerante,Recarga De Gás,Vazamento,Refrigerador
+28645.0,4969.0,7634.0,Evaporador Com Vazamento,Carga De Gás Refrigerante,Recarga De Gás,Vazamento,Congelador
+28645.0,5515.0,5370.0,Evaporador Com Vazamento,Troca Evaporador,Refrigeração,Vazamento,Refrigerador
+28645.0,6153.0,7634.0,Evaporador Com Vazamento,Troca De Evaporador E Filtro,Produto / Insumo,Vazamento,Congelador
+28645.0,7090.0,5370.0,Evaporador Com Vazamento,Ordem De Piso (Retrabalho),Troca Equipamento,Vazamento,Refrigerador
+28645.0,7091.0,5370.0,Evaporador Com Vazamento,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Vazamento,Refrigerador
+28645.0,7092.0,5370.0,Evaporador Com Vazamento,Regulagem De Porta,Estrutura,Vazamento,Refrigerador
+28646.0,5510.0,5370.0,Bandeja Do Evaporador Solta,Trocar/Fixar Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+28646.0,5510.0,5370.0,Bandeja Do Evaporador Solta,Trocar/Fixar Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+28646.0,7499.0,5370.0,Bandeja Do Evaporador Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+28646.0,7499.0,5370.0,Bandeja Do Evaporador Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+28647.0,4982.0,5370.0,Sistema De Ref. Contaminado,Solicitar Troca De Equipamento,Troca Equipamento,Sanitização / Contaminação,Refrigerador
+28648.0,5511.0,5370.0,Vazamento De Água,Troca Dreno,Troca De Peça,Água,Refrigerador
+28648.0,5512.0,5370.0,Vazamento De Água,Troca Do Coletor,Troca De Peça,Água,Refrigerador
+28649.0,5506.0,7634.0,Energia Do Pdv Desregulada,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Congelador
+28649.0,5654.0,7634.0,Energia Do Pdv Desregulada,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Congelador
+28709.0,5525.0,5370.0,Moldura Painel Manchado,Troca Do Painel,Troca De Peça,Estrutura,Refrigerador
+28709.0,5525.0,7634.0,Moldura Painel Manchado,Troca Do Painel,Troca De Peça,Estrutura,Congelador
+30680.0,5648.0,5370.0,Controlador Desregulado,Ajuste De Parâmetros,Ajuste / Regulagem,Ajuste / Regulagem,Refrigerador
+30686.0,6151.0,7634.0,Fonte De Led Queimado,Troca De Lâmpada,Troca De Peça,Iluminação,Congelador
+30686.0,6151.0,7634.0,Fonte De Led Queimado,Troca De Lâmpada,Troca De Peça,Iluminação,Congelador
+30686.0,6202.0,7634.0,Fonte De Led Queimado,Troca Da Fonte 12/24 V,Troca De Peça,Iluminação,Congelador
+30686.0,6202.0,7634.0,Fonte De Led Queimado,Troca Da Fonte 12/24 V,Troca De Peça,Iluminação,Congelador
+30690.0,4972.0,7634.0,Motor Forçador Com Barulho,Destravar Micromotor,Motor / Bomba,Motores,Congelador
+30699.0,5508.0,5370.0,Sensor Da Porta Com Defeito,Troca Do Cabeamento,Troca De Peça,Estrutura,Refrigerador
+30701.0,7499.0,5370.0,Vazamento De Água,Visita Sta Com Troca De Peça,Troca De Peça,Água,Refrigerador
+30701.0,7499.0,5370.0,Vazamento De Água,Visita Sta Com Troca De Peça,Troca De Peça,Água,Refrigerador
+33705.0,6147.0,5370.0,Porta Com Defeito,Troca De Porta,Estrutura,Estrutura,Refrigerador
+33705.0,6148.0,5370.0,Porta Com Defeito,Reparo Na Porta,Estrutura,Estrutura,Refrigerador
+33705.0,6149.0,5370.0,Porta Com Defeito,Reparo No Auto-Fechamento,Reparo,Estrutura,Refrigerador
+33705.0,6150.0,5370.0,Porta Com Defeito,Troca De Auto-Fechamento,Troca De Peça,Estrutura,Refrigerador
+33705.0,6244.0,5370.0,Porta Com Defeito,Reparo Na Gaxeta Da Porta,Estrutura,Estrutura,Refrigerador
+33705.0,6245.0,5370.0,Porta Com Defeito,Troca De Puxador,Estrutura,Estrutura,Refrigerador
+33705.0,6247.0,5370.0,Porta Com Defeito,Reparo Na Dobradiça,Estrutura,Estrutura,Refrigerador
+33705.0,7499.0,5370.0,Porta Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33705.0,7499.0,5370.0,Porta Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33706.0,6151.0,5370.0,Lâmpada Com Defeito,Troca De Lâmpada,Troca De Peça,Iluminação,Refrigerador
+33706.0,6152.0,5370.0,Lâmpada Com Defeito,Reparo Em Lâmpada,Reparo,Iluminação,Refrigerador
+33706.0,7499.0,5370.0,Lâmpada Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Iluminação,Refrigerador
+33706.0,7499.0,5370.0,Lâmpada Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Iluminação,Refrigerador
+33707.0,6153.0,5370.0,Evaporador Com Vazamento,Troca De Evaporador E Filtro,Produto / Insumo,Vazamento,Refrigerador
+33707.0,6154.0,5370.0,Evaporador Com Vazamento,Recarga De Gás Refrigerante,Recarga De Gás,Vazamento,Refrigerador
+33707.0,7499.0,5370.0,Evaporador Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+33707.0,7499.0,5370.0,Evaporador Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+33708.0,6155.0,5370.0,Bandeja Do Evaporador Obstruído,Troca De Bandeja Do Evaporador,Estrutura,Obstrução,Refrigerador
+33709.0,6156.0,5370.0,Condensador Obstruído,Limpeza Do Condensador,Refrigeração,Obstrução,Refrigerador
+33709.0,6157.0,5370.0,Condensador Obstruído,Troca De Condensador,Refrigeração,Obstrução,Refrigerador
+33709.0,6158.0,5370.0,Condensador Obstruído,Reparo No Condensador,Refrigeração,Obstrução,Refrigerador
+33709.0,7090.0,5370.0,Condensador Obstruído,Ordem De Piso (Retrabalho),Troca Equipamento,Obstrução,Refrigerador
+33709.0,7091.0,5370.0,Condensador Obstruído,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Obstrução,Refrigerador
+33709.0,7092.0,5370.0,Condensador Obstruído,Regulagem De Porta,Estrutura,Obstrução,Refrigerador
+33709.0,7499.0,5370.0,Condensador Obstruído,Visita Sta Com Troca De Peça,Troca De Peça,Obstrução,Refrigerador
+33709.0,7499.0,5370.0,Condensador Obstruído,Visita Sta Com Troca De Peça,Troca De Peça,Obstrução,Refrigerador
+33710.0,4969.0,7634.0,Condensador Com Vazamento,Carga De Gás Refrigerante,Recarga De Gás,Vazamento,Congelador
+33710.0,5516.0,7634.0,Condensador Com Vazamento,Troca Condensador,Refrigeração,Vazamento,Congelador
+33710.0,6154.0,5370.0,Condensador Com Vazamento,Recarga De Gás Refrigerante,Recarga De Gás,Vazamento,Refrigerador
+33710.0,6157.0,5370.0,Condensador Com Vazamento,Troca De Condensador,Refrigeração,Vazamento,Refrigerador
+33710.0,6158.0,5370.0,Condensador Com Vazamento,Reparo No Condensador,Refrigeração,Vazamento,Refrigerador
+33710.0,7090.0,5370.0,Condensador Com Vazamento,Ordem De Piso (Retrabalho),Troca Equipamento,Vazamento,Refrigerador
+33710.0,7091.0,5370.0,Condensador Com Vazamento,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Vazamento,Refrigerador
+33710.0,7092.0,5370.0,Condensador Com Vazamento,Regulagem De Porta,Estrutura,Vazamento,Refrigerador
+33710.0,7499.0,5370.0,Condensador Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+33710.0,7499.0,5370.0,Condensador Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+33711.0,6159.0,5370.0,Compressor Com Defeito,Troca De Compressor,Refrigeração,Refrigeração,Refrigerador
+33711.0,6160.0,5370.0,Compressor Com Defeito,Troca De Relé,Troca De Peça,Refrigeração,Refrigerador
+33711.0,7090.0,5370.0,Compressor Com Defeito,Ordem De Piso (Retrabalho),Troca Equipamento,Refrigeração,Refrigerador
+33711.0,7091.0,5370.0,Compressor Com Defeito,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Refrigeração,Refrigerador
+33711.0,7092.0,5370.0,Compressor Com Defeito,Regulagem De Porta,Estrutura,Refrigeração,Refrigerador
+33711.0,7499.0,5370.0,Compressor Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+33711.0,7499.0,5370.0,Compressor Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+33712.0,6159.0,5370.0,Compressor Com Ruído,Troca De Compressor,Refrigeração,Refrigeração,Refrigerador
+33712.0,6160.0,5370.0,Compressor Com Ruído,Troca De Relé,Troca De Peça,Refrigeração,Refrigerador
+33712.0,7090.0,5370.0,Compressor Com Ruído,Ordem De Piso (Retrabalho),Troca Equipamento,Refrigeração,Refrigerador
+33712.0,7091.0,5370.0,Compressor Com Ruído,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Refrigeração,Refrigerador
+33712.0,7092.0,5370.0,Compressor Com Ruído,Regulagem De Porta,Estrutura,Refrigeração,Refrigerador
+33712.0,7499.0,5370.0,Compressor Com Ruído,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+33712.0,7499.0,5370.0,Compressor Com Ruído,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+33713.0,6159.0,5370.0,Compressor Com Alta Temperatura,Troca De Compressor,Refrigeração,Refrigeração,Refrigerador
+33713.0,7090.0,5370.0,Compressor Com Alta Temperatura,Ordem De Piso (Retrabalho),Troca Equipamento,Refrigeração,Refrigerador
+33713.0,7091.0,5370.0,Compressor Com Alta Temperatura,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Refrigeração,Refrigerador
+33713.0,7092.0,5370.0,Compressor Com Alta Temperatura,Regulagem De Porta,Estrutura,Refrigeração,Refrigerador
+33713.0,7499.0,5370.0,Compressor Com Alta Temperatura,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+33713.0,7499.0,5370.0,Compressor Com Alta Temperatura,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+33714.0,6154.0,5370.0,Reservatório De Água Cheio,Recarga De Gás Refrigerante,Recarga De Gás,Água,Refrigerador
+33714.0,6164.0,5370.0,Reservatório De Água Cheio,Reparo Na Charola,Reparo,Água,Refrigerador
+33714.0,6165.0,5370.0,Reservatório De Água Cheio,Troca De Charola,Troca De Peça,Água,Refrigerador
+33714.0,6166.0,5370.0,Reservatório De Água Cheio,Posicionar Filtro Desidratador,Produto / Insumo,Água,Refrigerador
+33714.0,7508.0,5370.0,Reservatório De Água Cheio,Orientação De Uso: Limpeza No Condensador,Orientação Cliente,Água,Refrigerador
+33714.0,7508.0,5370.0,Reservatório De Água Cheio,Orientação De Uso: Limpeza No Condensador,Orientação Cliente,Água,Refrigerador
+33715.0,6154.0,5370.0,Filtro Secador Obstruído,Recarga De Gás Refrigerante,Recarga De Gás,Água,Refrigerador
+33715.0,6167.0,5370.0,Filtro Secador Obstruído,Troca De Filtro Secador,Produto / Insumo,Água,Refrigerador
+33715.0,6168.0,5370.0,Filtro Secador Obstruído,Limpeza De Filtro Secador,Produto / Insumo,Água,Refrigerador
+33715.0,7090.0,5370.0,Filtro Secador Obstruído,Ordem De Piso (Retrabalho),Troca Equipamento,Água,Refrigerador
+33715.0,7091.0,5370.0,Filtro Secador Obstruído,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Água,Refrigerador
+33715.0,7092.0,5370.0,Filtro Secador Obstruído,Regulagem De Porta,Estrutura,Água,Refrigerador
+33715.0,7499.0,5370.0,Filtro Secador Obstruído,Visita Sta Com Troca De Peça,Troca De Peça,Água,Refrigerador
+33715.0,7499.0,5370.0,Filtro Secador Obstruído,Visita Sta Com Troca De Peça,Troca De Peça,Água,Refrigerador
+33716.0,6163.0,7634.0,Micromotor Condensador Queimado,Troca De Micromotor Do Condensador,Motor / Bomba,Motores,Congelador
+33716.0,6169.0,5370.0,Micromotor Condensador Queimado,Troca De Micromotor Condensador,Motor / Bomba,Motores,Refrigerador
+33716.0,7090.0,5370.0,Micromotor Condensador Queimado,Ordem De Piso (Retrabalho),Troca Equipamento,Motores,Refrigerador
+33716.0,7091.0,5370.0,Micromotor Condensador Queimado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Motores,Refrigerador
+33716.0,7092.0,5370.0,Micromotor Condensador Queimado,Regulagem De Porta,Estrutura,Motores,Refrigerador
+33717.0,6163.0,7634.0,Micromotor Condensador Com Ruído,Troca De Micromotor Do Condensador,Motor / Bomba,Motores,Congelador
+33717.0,6169.0,5370.0,Micromotor Condensador Com Ruído,Troca De Micromotor Condensador,Motor / Bomba,Motores,Refrigerador
+33718.0,6163.0,7634.0,Micromotor Condensador Travado,Troca De Micromotor Do Condensador,Motor / Bomba,Motores,Congelador
+33718.0,6169.0,5370.0,Micromotor Condensador Travado,Troca De Micromotor Condensador,Motor / Bomba,Motores,Refrigerador
+33718.0,7090.0,5370.0,Micromotor Condensador Travado,Ordem De Piso (Retrabalho),Troca Equipamento,Motores,Refrigerador
+33718.0,7091.0,5370.0,Micromotor Condensador Travado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Motores,Refrigerador
+33718.0,7092.0,5370.0,Micromotor Condensador Travado,Regulagem De Porta,Estrutura,Motores,Refrigerador
+33719.0,4997.0,7634.0,Hélice De Micromotor Condensador Quebrado,Troca De Hélice,Troca De Peça,Estrutura,Congelador
+33719.0,4997.0,7634.0,Hélice De Micromotor Condensador Quebrado,Troca De Hélice,Troca De Peça,Estrutura,Congelador
+33719.0,6170.0,5370.0,Hélice De Micromotor Condensador Quebrado,Troca Hélice De Micromotor Condensador,Motor / Bomba,Estrutura,Refrigerador
+33720.0,6163.0,7634.0,Micromotor Evaporador Queimado,Troca De Micromotor Do Condensador,Motor / Bomba,Motores,Congelador
+33720.0,6171.0,5370.0,Micromotor Evaporador Queimado,Troca De Micromotor Evaporador,Motor / Bomba,Motores,Refrigerador
+33720.0,7090.0,5370.0,Micromotor Evaporador Queimado,Ordem De Piso (Retrabalho),Troca Equipamento,Motores,Refrigerador
+33720.0,7091.0,5370.0,Micromotor Evaporador Queimado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Motores,Refrigerador
+33720.0,7092.0,5370.0,Micromotor Evaporador Queimado,Regulagem De Porta,Estrutura,Motores,Refrigerador
+33721.0,6163.0,7634.0,Micromotor Evaporador Com Ruído,Troca De Micromotor Do Condensador,Motor / Bomba,Motores,Congelador
+33721.0,6171.0,5370.0,Micromotor Evaporador Com Ruído,Troca De Micromotor Evaporador,Motor / Bomba,Motores,Refrigerador
+33721.0,7090.0,5370.0,Micromotor Evaporador Com Ruído,Ordem De Piso (Retrabalho),Troca Equipamento,Motores,Refrigerador
+33721.0,7091.0,5370.0,Micromotor Evaporador Com Ruído,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Motores,Refrigerador
+33721.0,7092.0,5370.0,Micromotor Evaporador Com Ruído,Regulagem De Porta,Estrutura,Motores,Refrigerador
+33722.0,4997.0,7634.0,Micromotor Evaporador Travado,Troca De Hélice,Troca De Peça,Motores,Congelador
+33722.0,6171.0,5370.0,Micromotor Evaporador Travado,Troca De Micromotor Evaporador,Motor / Bomba,Motores,Refrigerador
+33722.0,7090.0,5370.0,Micromotor Evaporador Travado,Ordem De Piso (Retrabalho),Troca Equipamento,Motores,Refrigerador
+33722.0,7091.0,5370.0,Micromotor Evaporador Travado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Motores,Refrigerador
+33722.0,7092.0,5370.0,Micromotor Evaporador Travado,Regulagem De Porta,Estrutura,Motores,Refrigerador
+33723.0,4997.0,7634.0,Hélice  De Micromotor Evaporador  Quebrado,Troca De Hélice,Troca De Peça,Estrutura,Congelador
+33723.0,4997.0,7634.0,Hélice  De Micromotor Evaporador  Quebrado,Troca De Hélice,Troca De Peça,Estrutura,Congelador
+33723.0,6172.0,5370.0,Hélice  De Micromotor Evaporador  Quebrado,Troca Hélice De Micromotor Evaporador,Motor / Bomba,Estrutura,Refrigerador
+33723.0,7090.0,5370.0,Hélice  De Micromotor Evaporador  Quebrado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33723.0,7091.0,5370.0,Hélice  De Micromotor Evaporador  Quebrado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33723.0,7092.0,5370.0,Hélice  De Micromotor Evaporador  Quebrado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33724.0,6154.0,5370.0,Gás Refrigerante Insuficiente,Recarga De Gás Refrigerante,Recarga De Gás,Refrigeração,Refrigerador
+33725.0,6154.0,5370.0,Sem Gás Refrigerante,Recarga De Gás Refrigerante,Recarga De Gás,Refrigeração,Refrigerador
+33726.0,4969.0,7634.0,Vazamento De Gás Refrigerante,Carga De Gás Refrigerante,Recarga De Gás,Vazamento,Congelador
+33726.0,4982.0,7634.0,Vazamento De Gás Refrigerante,Solicitar Troca De Equipamento,Troca Equipamento,Vazamento,Congelador
+33726.0,4990.0,7634.0,Vazamento De Gás Refrigerante,Troca De Capilar,Refrigeração,Vazamento,Congelador
+33726.0,4994.0,7634.0,Vazamento De Gás Refrigerante,Troca De Filtro Secador,Produto / Insumo,Vazamento,Congelador
+33726.0,6153.0,7634.0,Vazamento De Gás Refrigerante,Troca De Evaporador E Filtro,Produto / Insumo,Vazamento,Congelador
+33726.0,6154.0,5370.0,Vazamento De Gás Refrigerante,Recarga De Gás Refrigerante,Recarga De Gás,Vazamento,Refrigerador
+33726.0,6157.0,7634.0,Vazamento De Gás Refrigerante,Troca De Condensador,Refrigeração,Vazamento,Congelador
+33726.0,7090.0,5370.0,Vazamento De Gás Refrigerante,Ordem De Piso (Retrabalho),Troca Equipamento,Vazamento,Refrigerador
+33726.0,7091.0,5370.0,Vazamento De Gás Refrigerante,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Vazamento,Refrigerador
+33726.0,7092.0,5370.0,Vazamento De Gás Refrigerante,Regulagem De Porta,Estrutura,Vazamento,Refrigerador
+33727.0,6154.0,5370.0,Tubo Capilar Obstruído,Recarga De Gás Refrigerante,Recarga De Gás,Obstrução,Refrigerador
+33727.0,6173.0,5370.0,Tubo Capilar Obstruído,Troca De Tubo Capilar,Refrigeração,Obstrução,Refrigerador
+33727.0,6174.0,5370.0,Tubo Capilar Obstruído,Reparo No Tubo Capilar,Refrigeração,Obstrução,Refrigerador
+33727.0,7499.0,5370.0,Tubo Capilar Obstruído,Visita Sta Com Troca De Peça,Troca De Peça,Obstrução,Refrigerador
+33727.0,7499.0,5370.0,Tubo Capilar Obstruído,Visita Sta Com Troca De Peça,Troca De Peça,Obstrução,Refrigerador
+33728.0,6175.0,5370.0,Sensor  De Temperatura Com Defeito,Troca De Sensor De Gelo,Sensores / Controle,Sensores,Refrigerador
+33728.0,6176.0,5370.0,Sensor  De Temperatura Com Defeito,Reparo De Sensor De Gelo,Sensores / Controle,Sensores,Refrigerador
+33728.0,7090.0,5370.0,Sensor  De Temperatura Com Defeito,Ordem De Piso (Retrabalho),Troca Equipamento,Sensores,Refrigerador
+33728.0,7091.0,5370.0,Sensor  De Temperatura Com Defeito,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Sensores,Refrigerador
+33728.0,7092.0,5370.0,Sensor  De Temperatura Com Defeito,Regulagem De Porta,Estrutura,Sensores,Refrigerador
+33728.0,7499.0,5370.0,Sensor  De Temperatura Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Sensores,Refrigerador
+33728.0,7499.0,5370.0,Sensor  De Temperatura Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Sensores,Refrigerador
+33729.0,6177.0,5370.0,Controlador Com Defeito,Troca De Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+33729.0,6178.0,5370.0,Controlador Com Defeito,Reparo De Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+33729.0,6179.0,5370.0,Controlador Com Defeito,Ajustes Nos Parâmetros,Ajuste / Regulagem,Controle Eletrônico,Refrigerador
+33729.0,6181.0,5370.0,Controlador Com Defeito,Troca De Placa Eletrônica Do Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+33729.0,7499.0,5370.0,Controlador Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33729.0,7499.0,5370.0,Controlador Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33729.0,8222.0,5370.0,Controlador Com Defeito,Ajuste Nos Parâmetros Do Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+33730.0,6182.0,5370.0,Transformador Queimado,Troca De Transformador,Sistema Elétrico,Elétrico,Refrigerador
+33730.0,6183.0,5370.0,Transformador Queimado,Reparo No Transformador,Sistema Elétrico,Elétrico,Refrigerador
+33730.0,7499.0,5370.0,Transformador Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33730.0,7499.0,5370.0,Transformador Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33731.0,6184.0,5370.0,Termostato Do Evaporador Com Defeito,Troca De Termostato,Sensores / Controle,Sensores,Refrigerador
+33731.0,6185.0,5370.0,Termostato Do Evaporador Com Defeito,Troca De Fusível Do Termostato,Sensores / Controle,Sensores,Refrigerador
+33731.0,6186.0,5370.0,Termostato Do Evaporador Com Defeito,Troca De Cabeamento Do Termostato,Sensores / Controle,Sensores,Refrigerador
+33731.0,6187.0,5370.0,Termostato Do Evaporador Com Defeito,Reparo No Cabeamento Do Termostato,Sensores / Controle,Sensores,Refrigerador
+33731.0,7090.0,5370.0,Termostato Do Evaporador Com Defeito,Ordem De Piso (Retrabalho),Troca Equipamento,Sensores,Refrigerador
+33731.0,7091.0,5370.0,Termostato Do Evaporador Com Defeito,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Sensores,Refrigerador
+33731.0,7092.0,5370.0,Termostato Do Evaporador Com Defeito,Regulagem De Porta,Estrutura,Sensores,Refrigerador
+33732.0,6188.0,5370.0,Resistência Do Evaporador Queimado,Troca De Resistência Do Evaporador,Refrigeração,Elétrico,Refrigerador
+33732.0,6189.0,5370.0,Resistência Do Evaporador Queimado,Reparo Na Resistência Do Evaporador,Refrigeração,Elétrico,Refrigerador
+33732.0,6190.0,5370.0,Resistência Do Evaporador Queimado,Troca De Cabo Da Resistência,Sistema Elétrico,Elétrico,Refrigerador
+33732.0,6191.0,5370.0,Resistência Do Evaporador Queimado,Reparo No Cabo Da Resistência,Sistema Elétrico,Elétrico,Refrigerador
+33732.0,7499.0,5370.0,Resistência Do Evaporador Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33732.0,7499.0,5370.0,Resistência Do Evaporador Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33733.0,6192.0,5370.0,Capacitor Do Condensador Queimado,Troca De Capacitor Do Condensador,Sistema Elétrico,Elétrico,Refrigerador
+33733.0,7090.0,5370.0,Capacitor Do Condensador Queimado,Ordem De Piso (Retrabalho),Troca Equipamento,Elétrico,Refrigerador
+33733.0,7091.0,5370.0,Capacitor Do Condensador Queimado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Elétrico,Refrigerador
+33733.0,7092.0,5370.0,Capacitor Do Condensador Queimado,Regulagem De Porta,Estrutura,Elétrico,Refrigerador
+33734.0,6193.0,5370.0,Cabo De Alimentação Com Mau Contato,Troca De Cabo De Alimentação,Sistema Elétrico,Elétrico,Refrigerador
+33734.0,6194.0,5370.0,Cabo De Alimentação Com Mau Contato,Reparo No Cabo De Alimentação,Sistema Elétrico,Elétrico,Refrigerador
+33734.0,6194.0,5370.0,Cabo De Alimentação Com Mau Contato,Reparo No Cabo De Alimentação,Sistema Elétrico,Elétrico,Refrigerador
+33734.0,7090.0,5370.0,Cabo De Alimentação Com Mau Contato,Ordem De Piso (Retrabalho),Troca Equipamento,Elétrico,Refrigerador
+33734.0,7091.0,5370.0,Cabo De Alimentação Com Mau Contato,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Elétrico,Refrigerador
+33734.0,7092.0,5370.0,Cabo De Alimentação Com Mau Contato,Regulagem De Porta,Estrutura,Elétrico,Refrigerador
+33734.0,7506.0,5370.0,Cabo De Alimentação Com Mau Contato,Orientação De Uso: Instalação Elétrica,Orientação Cliente,Elétrico,Refrigerador
+33734.0,7506.0,5370.0,Cabo De Alimentação Com Mau Contato,Orientação De Uso: Instalação Elétrica,Orientação Cliente,Elétrico,Refrigerador
+33735.0,6195.0,5370.0,Plug Quebrado,Troca De Plug,Sistema Elétrico,Estrutura,Refrigerador
+33735.0,6195.0,7634.0,Plug Quebrado,Troca De Plug,Sistema Elétrico,Estrutura,Congelador
+33736.0,6196.0,5370.0,Plug Desconectado,Conectar Plug,Sistema Elétrico,Elétrico,Refrigerador
+33737.0,6197.0,5370.0,Cabo Do Display Com Mau Contato,Troca De Cabo Do Display,Sensores / Controle,Controle Eletrônico,Refrigerador
+33737.0,6198.0,5370.0,Cabo Do Display Com Mau Contato,Reparo No Cabo Do Display,Sensores / Controle,Controle Eletrônico,Refrigerador
+33737.0,7090.0,5370.0,Cabo Do Display Com Mau Contato,Ordem De Piso (Retrabalho),Troca Equipamento,Controle Eletrônico,Refrigerador
+33737.0,7091.0,5370.0,Cabo Do Display Com Mau Contato,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Controle Eletrônico,Refrigerador
+33737.0,7092.0,5370.0,Cabo Do Display Com Mau Contato,Regulagem De Porta,Estrutura,Controle Eletrônico,Refrigerador
+33737.0,7499.0,5370.0,Cabo Do Display Com Mau Contato,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33737.0,7499.0,5370.0,Cabo Do Display Com Mau Contato,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33738.0,6185.0,5370.0,Fusível Do Termostato Queimado,Troca De Fusível Do Termostato,Sensores / Controle,Sensores,Refrigerador
+33739.0,6160.0,5370.0,Relé Queimado,Troca De Relé,Troca De Peça,Elétrico,Refrigerador
+33739.0,7499.0,5370.0,Relé Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33739.0,7499.0,5370.0,Relé Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33740.0,6199.0,5370.0,Tomada Do Pdv Com Defeito,Troca/Reparo Na Tomada (Cliente Responsável),Orientação Cliente,Elétrico,Refrigerador
+33740.0,7506.0,5370.0,Tomada Do Pdv Com Defeito,Orientação De Uso: Instalação Elétrica,Orientação Cliente,Elétrico,Refrigerador
+33740.0,7506.0,5370.0,Tomada Do Pdv Com Defeito,Orientação De Uso: Instalação Elétrica,Orientação Cliente,Elétrico,Refrigerador
+33741.0,6199.0,5370.0,Tomada Do Pdv Sem Energia,Troca/Reparo Na Tomada (Cliente Responsável),Orientação Cliente,Elétrico,Refrigerador
+33741.0,7506.0,5370.0,Tomada Do Pdv Sem Energia,Orientação De Uso: Instalação Elétrica,Orientação Cliente,Elétrico,Refrigerador
+33741.0,7506.0,5370.0,Tomada Do Pdv Sem Energia,Orientação De Uso: Instalação Elétrica,Orientação Cliente,Elétrico,Refrigerador
+33742.0,5501.0,7634.0,Reator Queimado,Troca Da Fiação,Sistema Elétrico,Elétrico,Congelador
+33742.0,6200.0,5370.0,Reator Queimado,Troca De Reator,Sistema Elétrico,Elétrico,Refrigerador
+33742.0,6201.0,5370.0,Reator Queimado,Reparo No Reator,Sistema Elétrico,Elétrico,Refrigerador
+33742.0,6202.0,5370.0,Reator Queimado,Troca Da Fonte 12/24 V,Troca De Peça,Elétrico,Refrigerador
+33742.0,6203.0,5370.0,Reator Queimado,Reparo Da Fonte 12/24 V,Reparo,Elétrico,Refrigerador
+33743.0,6204.0,5370.0,Equipamento Em Curto,Aterrar Equipamento,Sistema Elétrico,Elétrico,Refrigerador
+33743.0,7090.0,5370.0,Equipamento Em Curto,Ordem De Piso (Retrabalho),Troca Equipamento,Elétrico,Refrigerador
+33743.0,7091.0,5370.0,Equipamento Em Curto,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Elétrico,Refrigerador
+33743.0,7092.0,5370.0,Equipamento Em Curto,Regulagem De Porta,Estrutura,Elétrico,Refrigerador
+33743.0,7499.0,5370.0,Equipamento Em Curto,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33743.0,7499.0,5370.0,Equipamento Em Curto,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33744.0,6205.0,7634.0,Interruptor De Aleta Com Defeito,Troca De Interruptor De Aleta,Troca De Peça,Elétrico,Congelador
+33744.0,6205.0,5370.0,Interruptor De Aleta Com Defeito,Troca De Interruptor De Aleta,Troca De Peça,Elétrico,Refrigerador
+33744.0,6206.0,5370.0,Interruptor De Aleta Com Defeito,Reparo De Interruptor De Aleta,Reparo,Elétrico,Refrigerador
+33745.0,6207.0,5370.0,Protetor Da Lâmpada Com Defeito,Troca De Protetor Da Lâmpada,Troca De Peça,Iluminação,Refrigerador
+33745.0,6208.0,5370.0,Protetor Da Lâmpada Com Defeito,Reparo No Protetor Da Lâmpada,Reparo,Iluminação,Refrigerador
+33745.0,7499.0,5370.0,Protetor Da Lâmpada Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Iluminação,Refrigerador
+33745.0,7499.0,5370.0,Protetor Da Lâmpada Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Iluminação,Refrigerador
+33746.0,6202.0,5370.0,Fonte 12/24 V Com Defeito,Troca Da Fonte 12/24 V,Troca De Peça,Elétrico,Refrigerador
+33746.0,6203.0,5370.0,Fonte 12/24 V Com Defeito,Reparo Da Fonte 12/24 V,Reparo,Elétrico,Refrigerador
+33746.0,7090.0,5370.0,Fonte 12/24 V Com Defeito,Ordem De Piso (Retrabalho),Troca Equipamento,Elétrico,Refrigerador
+33746.0,7091.0,5370.0,Fonte 12/24 V Com Defeito,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Elétrico,Refrigerador
+33746.0,7092.0,5370.0,Fonte 12/24 V Com Defeito,Regulagem De Porta,Estrutura,Elétrico,Refrigerador
+33746.0,7499.0,5370.0,Fonte 12/24 V Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33746.0,7499.0,5370.0,Fonte 12/24 V Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33747.0,6209.0,5370.0,Equipamento Desnivelado,Nivelar Equipamento,Ajuste / Regulagem,Estrutura,Refrigerador
+33747.0,6210.0,5370.0,Equipamento Desnivelado,Troca De Pé Nivelador,Troca De Peça,Estrutura,Refrigerador
+33747.0,6211.0,5370.0,Equipamento Desnivelado,Reparo No Pé Nivelador,Reparo,Estrutura,Refrigerador
+33747.0,6212.0,5370.0,Equipamento Desnivelado,Ajuste No Pé Nivelador,Ajuste / Regulagem,Estrutura,Refrigerador
+33747.0,7090.0,5370.0,Equipamento Desnivelado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33747.0,7091.0,5370.0,Equipamento Desnivelado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33747.0,7092.0,5370.0,Equipamento Desnivelado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33747.0,7499.0,5370.0,Equipamento Desnivelado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33747.0,7499.0,5370.0,Equipamento Desnivelado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33748.0,6213.0,5370.0,Equipamento Em Mau Estado,Troca De Adesivo,Troca De Peça,Estrutura,Refrigerador
+33748.0,6214.0,5370.0,Equipamento Em Mau Estado,Limpeza De Equipamento,Limpeza,Estrutura,Refrigerador
+33748.0,6215.0,5370.0,Equipamento Em Mau Estado,Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+33748.0,6598.0,7634.0,Equipamento Em Mau Estado,Troca De Relé,Troca De Peça,Estrutura,Congelador
+33748.0,7090.0,5370.0,Equipamento Em Mau Estado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33748.0,7091.0,5370.0,Equipamento Em Mau Estado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33748.0,7513.0,5370.0,Equipamento Em Mau Estado,Troca Técnica,Troca De Peça,Estrutura,Refrigerador
+33748.0,7513.0,5370.0,Equipamento Em Mau Estado,Troca Técnica,Troca De Peça,Estrutura,Refrigerador
+33749.0,6217.0,5370.0,Prateleira Com Defeito,Troca De Prateleira,Troca De Peça,Estrutura,Refrigerador
+33749.0,6217.0,7634.0,Prateleira Com Defeito,Troca De Prateleira,Troca De Peça,Estrutura,Congelador
+33749.0,6218.0,5370.0,Prateleira Com Defeito,Reparo Na Prateleira,Reparo,Estrutura,Refrigerador
+33749.0,7090.0,5370.0,Prateleira Com Defeito,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33749.0,7091.0,5370.0,Prateleira Com Defeito,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33749.0,7092.0,5370.0,Prateleira Com Defeito,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33750.0,6219.0,5370.0,Falta Prateleira,Reposição De Prateleira,Troca De Peça,Estrutura,Refrigerador
+33750.0,7090.0,5370.0,Falta Prateleira,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33750.0,7091.0,5370.0,Falta Prateleira,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33750.0,7092.0,5370.0,Falta Prateleira,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33751.0,6215.0,5370.0,Gabinete Quebrado,Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+33751.0,6220.0,5370.0,Gabinete Quebrado,Sem Condições De Reparo No Gabinete,Estrutura,Estrutura,Refrigerador
+33751.0,7090.0,5370.0,Gabinete Quebrado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33751.0,7091.0,5370.0,Gabinete Quebrado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33751.0,7092.0,5370.0,Gabinete Quebrado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33751.0,7513.0,5370.0,Gabinete Quebrado,Troca Técnica,Troca De Peça,Estrutura,Refrigerador
+33751.0,7513.0,5370.0,Gabinete Quebrado,Troca Técnica,Troca De Peça,Estrutura,Refrigerador
+33752.0,6215.0,5370.0,Gabinete Empenado,Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+33752.0,6220.0,5370.0,Gabinete Empenado,Sem Condições De Reparo No Gabinete,Estrutura,Estrutura,Refrigerador
+33752.0,6221.0,5370.0,Gabinete Empenado,Ajuste No Gabinete,Estrutura,Estrutura,Refrigerador
+33752.0,7513.0,5370.0,Gabinete Empenado,Troca Técnica,Troca De Peça,Estrutura,Refrigerador
+33752.0,7513.0,5370.0,Gabinete Empenado,Troca Técnica,Troca De Peça,Estrutura,Refrigerador
+33753.0,6222.0,5370.0,Grade Traseira Inferior Com Defeito,Troca De Grade Traseira Inferior,Estrutura,Estrutura,Refrigerador
+33753.0,6223.0,5370.0,Grade Traseira Inferior Com Defeito,Reparo Na Grade Traseira Inferior,Estrutura,Estrutura,Refrigerador
+33753.0,7090.0,5370.0,Grade Traseira Inferior Com Defeito,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33753.0,7091.0,5370.0,Grade Traseira Inferior Com Defeito,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33753.0,7092.0,5370.0,Grade Traseira Inferior Com Defeito,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33753.0,7499.0,5370.0,Grade Traseira Inferior Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33753.0,7499.0,5370.0,Grade Traseira Inferior Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33754.0,6222.0,5370.0,Grade Traseira Inferior Oxidada,Troca De Grade Traseira Inferior,Estrutura,Estrutura,Refrigerador
+33754.0,7090.0,5370.0,Grade Traseira Inferior Oxidada,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33754.0,7091.0,5370.0,Grade Traseira Inferior Oxidada,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33754.0,7092.0,5370.0,Grade Traseira Inferior Oxidada,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33754.0,7499.0,5370.0,Grade Traseira Inferior Oxidada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33754.0,7499.0,5370.0,Grade Traseira Inferior Oxidada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33755.0,6224.0,5370.0,Grade Frontal Veneziana Quebrado,Troca De Grade Frontal Veneziana,Estrutura,Estrutura,Refrigerador
+33755.0,6224.0,7634.0,Grade Frontal Veneziana Quebrado,Troca De Grade Frontal Veneziana,Estrutura,Estrutura,Congelador
+33755.0,6225.0,5370.0,Grade Frontal Veneziana Quebrado,Reposição De Grade Frontal Veneziana,Estrutura,Estrutura,Refrigerador
+33755.0,7090.0,5370.0,Grade Frontal Veneziana Quebrado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33755.0,7091.0,5370.0,Grade Frontal Veneziana Quebrado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33755.0,7092.0,5370.0,Grade Frontal Veneziana Quebrado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33756.0,6225.0,5370.0,Falta Grade Frontal Veneziana,Reposição De Grade Frontal Veneziana,Estrutura,Estrutura,Refrigerador
+33757.0,4979.0,5370.0,Bandeja Do Evaporador Danificada,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33757.0,6155.0,5370.0,Bandeja Do Evaporador Danificada,Troca De Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+33757.0,6155.0,5370.0,Bandeja Do Evaporador Danificada,Troca De Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+33757.0,6155.0,7634.0,Bandeja Do Evaporador Danificada,Troca De Bandeja Do Evaporador,Estrutura,Estrutura,Congelador
+33757.0,6725.0,5370.0,Bandeja Do Evaporador Danificada,Troca Na Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+33757.0,7090.0,5370.0,Bandeja Do Evaporador Danificada,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33757.0,7091.0,5370.0,Bandeja Do Evaporador Danificada,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33757.0,7092.0,5370.0,Bandeja Do Evaporador Danificada,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33758.0,6226.0,5370.0,Falta Bandeja Do Evaporador,Reposição De Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+33759.0,6227.0,7634.0,Bandeja Do Evaporador Solta,Fixar Bandeja Do Evaporador,Estrutura,Estrutura,Congelador
+33759.0,6227.0,5370.0,Bandeja Do Evaporador Solta,Fixar Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+33759.0,7090.0,5370.0,Bandeja Do Evaporador Solta,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33759.0,7091.0,5370.0,Bandeja Do Evaporador Solta,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33759.0,7092.0,5370.0,Bandeja Do Evaporador Solta,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33760.0,6228.0,5370.0,Moldura Do Suporte Do Display Solta,Reparo Na Moldura Do Suporte Do Display,Sensores / Controle,Controle Eletrônico,Refrigerador
+33760.0,7090.0,5370.0,Moldura Do Suporte Do Display Solta,Ordem De Piso (Retrabalho),Troca Equipamento,Controle Eletrônico,Refrigerador
+33760.0,7091.0,5370.0,Moldura Do Suporte Do Display Solta,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Controle Eletrônico,Refrigerador
+33760.0,7092.0,5370.0,Moldura Do Suporte Do Display Solta,Regulagem De Porta,Estrutura,Controle Eletrônico,Refrigerador
+33760.0,7499.0,5370.0,Moldura Do Suporte Do Display Solta,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33760.0,7499.0,5370.0,Moldura Do Suporte Do Display Solta,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33761.0,6229.0,5370.0,Caixa De Proteção Do Display Superior Solta,Reparo Na Caixa De Proteção Do Display,Sensores / Controle,Controle Eletrônico,Refrigerador
+33761.0,7499.0,5370.0,Caixa De Proteção Do Display Superior Solta,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33761.0,7499.0,5370.0,Caixa De Proteção Do Display Superior Solta,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33762.0,6230.0,5370.0,Caixa De Proteção Do Controlador Inferior Solta,Reparo Na Caixa De Proteção Do Controlador Inferior,Sensores / Controle,Controle Eletrônico,Refrigerador
+33762.0,7090.0,5370.0,Caixa De Proteção Do Controlador Inferior Solta,Ordem De Piso (Retrabalho),Troca Equipamento,Controle Eletrônico,Refrigerador
+33762.0,7091.0,5370.0,Caixa De Proteção Do Controlador Inferior Solta,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Controle Eletrônico,Refrigerador
+33762.0,7092.0,5370.0,Caixa De Proteção Do Controlador Inferior Solta,Regulagem De Porta,Estrutura,Controle Eletrônico,Refrigerador
+33762.0,7499.0,5370.0,Caixa De Proteção Do Controlador Inferior Solta,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33762.0,7499.0,5370.0,Caixa De Proteção Do Controlador Inferior Solta,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33764.0,5071.0,7634.0,Peça De Equipamento Obsoleto,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Congelador
+33764.0,6215.0,5370.0,Peça De Equipamento Obsoleto,Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+33765.0,5656.0,5371.0,Equipamento Oxidado,Sucateado,Troca Equipamento,Estrutura,Post Mix
+33765.0,6215.0,5370.0,Equipamento Oxidado,Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
+33765.0,7090.0,5370.0,Equipamento Oxidado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33765.0,7091.0,5370.0,Equipamento Oxidado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33765.0,7092.0,5370.0,Equipamento Oxidado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33766.0,6239.0,5370.0,Sem Condições De Manutenção No Local,Equipamento Recolhido,Troca Equipamento,Outros,Refrigerador
+33766.0,6239.0,5373.0,Sem Condições De Manutenção No Local,Equipamento Recolhido,Troca Equipamento,Outros,Chopeira
+33766.0,6240.0,5373.0,Sem Condições De Manutenção No Local,Cliente Recusou Atendimento,Orientação Cliente,Outros,Chopeira
+33766.0,6240.0,5370.0,Sem Condições De Manutenção No Local,Cliente Recusou Atendimento,Orientação Cliente,Outros,Refrigerador
+33766.0,6750.0,5373.0,Sem Condições De Manutenção No Local,Cliente Não Autorizou,Orientação Cliente,Outros,Chopeira
+33766.0,6750.0,5370.0,Sem Condições De Manutenção No Local,Cliente Não Autorizou,Orientação Cliente,Outros,Refrigerador
+33766.0,7499.0,5373.0,Sem Condições De Manutenção No Local,Visita Sta Com Troca De Peça,Troca De Peça,Outros,Chopeira
+33766.0,7499.0,5370.0,Sem Condições De Manutenção No Local,Visita Sta Com Troca De Peça,Troca De Peça,Outros,Refrigerador
+33766.0,7499.0,5370.0,Sem Condições De Manutenção No Local,Visita Sta Com Troca De Peça,Troca De Peça,Outros,Refrigerador
+33766.0,7513.0,5373.0,Sem Condições De Manutenção No Local,Troca Técnica,Troca De Peça,Outros,Chopeira
+33766.0,7513.0,5371.0,Sem Condições De Manutenção No Local,Troca Técnica,Troca De Peça,Outros,Post Mix
+33767.0,6243.0,5370.0,Gaxeta Danificada,Troca De Gaxeta Da Porta,Estrutura,Estrutura,Refrigerador
+33767.0,6244.0,5370.0,Gaxeta Danificada,Reparo Na Gaxeta Da Porta,Estrutura,Estrutura,Refrigerador
+33767.0,7090.0,5370.0,Gaxeta Danificada,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33767.0,7091.0,5370.0,Gaxeta Danificada,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33767.0,7092.0,5370.0,Gaxeta Danificada,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33767.0,7499.0,5370.0,Gaxeta Danificada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33767.0,7499.0,5370.0,Gaxeta Danificada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33768.0,6245.0,5370.0,Puxador Da Porta Danificado,Troca De Puxador,Estrutura,Estrutura,Refrigerador
+33768.0,6246.0,5370.0,Puxador Da Porta Danificado,Reparo No Puxador,Estrutura,Estrutura,Refrigerador
+33768.0,7499.0,5370.0,Puxador Da Porta Danificado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33768.0,7499.0,5370.0,Puxador Da Porta Danificado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33769.0,6247.0,5370.0,Dobradiça Com Defeito,Reparo Na Dobradiça,Estrutura,Estrutura,Refrigerador
+33769.0,6248.0,5370.0,Dobradiça Com Defeito,Troca De Dobradiça,Estrutura,Estrutura,Refrigerador
+33769.0,6248.0,7634.0,Dobradiça Com Defeito,Troca De Dobradiça,Estrutura,Estrutura,Congelador
+33770.0,6249.0,5370.0,Dreno Obstruído,Limpeza No Dreno,Limpeza,Água,Refrigerador
+33770.0,6250.0,5370.0,Dreno Obstruído,Troca De Dreno,Troca De Peça,Água,Refrigerador
+33770.0,6251.0,5370.0,Dreno Obstruído,Reparo No Dreno,Reparo,Água,Refrigerador
+33770.0,7090.0,5370.0,Dreno Obstruído,Ordem De Piso (Retrabalho),Troca Equipamento,Água,Refrigerador
+33770.0,7091.0,5370.0,Dreno Obstruído,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Água,Refrigerador
+33770.0,7092.0,5370.0,Dreno Obstruído,Regulagem De Porta,Estrutura,Água,Refrigerador
+33771.0,6250.0,5370.0,Dreno Com Vazamento,Troca De Dreno,Troca De Peça,Água,Refrigerador
+33771.0,6251.0,7634.0,Dreno Com Vazamento,Reparo No Dreno,Reparo,Água,Congelador
+33771.0,6251.0,5370.0,Dreno Com Vazamento,Reparo No Dreno,Reparo,Água,Refrigerador
+33772.0,6159.0,5370.0,Compressor Com Corrente Alta,Troca De Compressor,Refrigeração,Refrigeração,Refrigerador
+33772.0,6160.0,5370.0,Compressor Com Corrente Alta,Troca De Relé,Troca De Peça,Refrigeração,Refrigerador
+33772.0,7090.0,5370.0,Compressor Com Corrente Alta,Ordem De Piso (Retrabalho),Troca Equipamento,Refrigeração,Refrigerador
+33772.0,7091.0,5370.0,Compressor Com Corrente Alta,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Refrigeração,Refrigerador
+33772.0,7092.0,5370.0,Compressor Com Corrente Alta,Regulagem De Porta,Estrutura,Refrigeração,Refrigerador
+33772.0,7499.0,5370.0,Compressor Com Corrente Alta,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+33772.0,7499.0,5370.0,Compressor Com Corrente Alta,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+33773.0,6252.0,5370.0,Start Danificado,Troca De Start,Troca De Peça,Elétrico,Refrigerador
+33773.0,7090.0,5370.0,Start Danificado,Ordem De Piso (Retrabalho),Troca Equipamento,Elétrico,Refrigerador
+33773.0,7091.0,5370.0,Start Danificado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Elétrico,Refrigerador
+33773.0,7092.0,5370.0,Start Danificado,Regulagem De Porta,Estrutura,Elétrico,Refrigerador
+33773.0,7499.0,5370.0,Start Danificado,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33773.0,7499.0,5370.0,Start Danificado,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+33774.0,5112.0,5376.0,Display Danificado,Troca De Display,Sensores / Controle,Controle Eletrônico,Vending Machine
+33774.0,6178.0,5370.0,Display Danificado,Reparo De Controlador,Sensores / Controle,Controle Eletrônico,Refrigerador
+33774.0,6179.0,5370.0,Display Danificado,Ajustes Nos Parâmetros,Ajuste / Regulagem,Controle Eletrônico,Refrigerador
+33774.0,6180.0,5370.0,Display Danificado,Troca Do Display,Sensores / Controle,Controle Eletrônico,Refrigerador
+33774.0,7499.0,5370.0,Display Danificado,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33774.0,7499.0,5370.0,Display Danificado,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+33775.0,6154.0,5370.0,Tubo Capilar Com Vazamento,Recarga De Gás Refrigerante,Recarga De Gás,Vazamento,Refrigerador
+33775.0,6173.0,5370.0,Tubo Capilar Com Vazamento,Troca De Tubo Capilar,Refrigeração,Vazamento,Refrigerador
+33775.0,7499.0,5370.0,Tubo Capilar Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+33775.0,7499.0,5370.0,Tubo Capilar Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+33776.0,6193.0,5370.0,Cabo De Alimentação Rompido,Troca De Cabo De Alimentação,Sistema Elétrico,Elétrico,Refrigerador
+33776.0,6194.0,5370.0,Cabo De Alimentação Rompido,Reparo No Cabo De Alimentação,Sistema Elétrico,Elétrico,Refrigerador
+33776.0,7090.0,5370.0,Cabo De Alimentação Rompido,Ordem De Piso (Retrabalho),Troca Equipamento,Elétrico,Refrigerador
+33776.0,7091.0,5370.0,Cabo De Alimentação Rompido,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Elétrico,Refrigerador
+33776.0,7092.0,5370.0,Cabo De Alimentação Rompido,Regulagem De Porta,Estrutura,Elétrico,Refrigerador
+33777.0,4969.0,7634.0,Evaporador Obstruído,Carga De Gás Refrigerante,Recarga De Gás,Obstrução,Congelador
+33777.0,6153.0,5370.0,Evaporador Obstruído,Troca De Evaporador E Filtro,Produto / Insumo,Obstrução,Refrigerador
+33777.0,6154.0,5370.0,Evaporador Obstruído,Recarga De Gás Refrigerante,Recarga De Gás,Obstrução,Refrigerador
+33777.0,6253.0,5370.0,Evaporador Obstruído,Limpeza Do Evaporador,Refrigeração,Obstrução,Refrigerador
+33777.0,6253.0,7634.0,Evaporador Obstruído,Limpeza Do Evaporador,Refrigeração,Obstrução,Congelador
+33777.0,7090.0,5370.0,Evaporador Obstruído,Ordem De Piso (Retrabalho),Troca Equipamento,Obstrução,Refrigerador
+33777.0,7091.0,5370.0,Evaporador Obstruído,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Obstrução,Refrigerador
+33777.0,7092.0,5370.0,Evaporador Obstruído,Regulagem De Porta,Estrutura,Obstrução,Refrigerador
+33778.0,6164.0,5370.0,Charola Danificada,Reparo Na Charola,Reparo,Estrutura,Refrigerador
+33778.0,6165.0,5370.0,Charola Danificada,Troca De Charola,Troca De Peça,Estrutura,Refrigerador
+33778.0,7090.0,5370.0,Charola Danificada,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33778.0,7091.0,5370.0,Charola Danificada,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33778.0,7092.0,5370.0,Charola Danificada,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33778.0,7499.0,5370.0,Charola Danificada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33778.0,7499.0,5370.0,Charola Danificada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33779.0,6164.0,5370.0,Charola Com Vazamento,Reparo Na Charola,Reparo,Vazamento,Refrigerador
+33779.0,6165.0,5370.0,Charola Com Vazamento,Troca De Charola,Troca De Peça,Vazamento,Refrigerador
+33779.0,7090.0,5370.0,Charola Com Vazamento,Ordem De Piso (Retrabalho),Troca Equipamento,Vazamento,Refrigerador
+33779.0,7091.0,5370.0,Charola Com Vazamento,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Vazamento,Refrigerador
+33779.0,7092.0,5370.0,Charola Com Vazamento,Regulagem De Porta,Estrutura,Vazamento,Refrigerador
+33779.0,7499.0,5370.0,Charola Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+33779.0,7499.0,5370.0,Charola Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+33780.0,4969.0,7634.0,Filtro Secador Com Vazamento,Carga De Gás Refrigerante,Recarga De Gás,Água,Congelador
+33780.0,4994.0,7634.0,Filtro Secador Com Vazamento,Troca De Filtro Secador,Produto / Insumo,Água,Congelador
+33780.0,6154.0,5370.0,Filtro Secador Com Vazamento,Recarga De Gás Refrigerante,Recarga De Gás,Água,Refrigerador
+33780.0,6167.0,5370.0,Filtro Secador Com Vazamento,Troca De Filtro Secador,Produto / Insumo,Água,Refrigerador
+33780.0,7090.0,5370.0,Filtro Secador Com Vazamento,Ordem De Piso (Retrabalho),Troca Equipamento,Água,Refrigerador
+33780.0,7091.0,5370.0,Filtro Secador Com Vazamento,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Água,Refrigerador
+33780.0,7092.0,5370.0,Filtro Secador Com Vazamento,Regulagem De Porta,Estrutura,Água,Refrigerador
+33782.0,6220.0,5370.0,Gabinete Oxidado,Sem Condições De Reparo No Gabinete,Estrutura,Estrutura,Refrigerador
+33782.0,7513.0,5370.0,Gabinete Oxidado,Troca Técnica,Troca De Peça,Estrutura,Refrigerador
+33782.0,7513.0,5370.0,Gabinete Oxidado,Troca Técnica,Troca De Peça,Estrutura,Refrigerador
+33783.0,6155.0,5370.0,Bandeja Do Evaporador Oxidado,Troca De Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+33783.0,7090.0,5370.0,Bandeja Do Evaporador Oxidado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33783.0,7091.0,5370.0,Bandeja Do Evaporador Oxidado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33783.0,7092.0,5370.0,Bandeja Do Evaporador Oxidado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33784.0,6254.0,5370.0,Tolva Danificada,Troca De Tolva,Troca De Peça,Estrutura,Refrigerador
+33784.0,6255.0,5370.0,Tolva Danificada,Reparo Na Tolva,Reparo,Estrutura,Refrigerador
+33784.0,7499.0,5370.0,Tolva Danificada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33784.0,7499.0,5370.0,Tolva Danificada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33785.0,6256.0,5370.0,Tolva Solta,Fixar Tolva,Reparo,Estrutura,Refrigerador
+33785.0,7090.0,5370.0,Tolva Solta,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33785.0,7091.0,5370.0,Tolva Solta,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33785.0,7092.0,5370.0,Tolva Solta,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33785.0,7499.0,5370.0,Tolva Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33785.0,7499.0,5370.0,Tolva Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33786.0,6257.0,5370.0,Grade Frontal Veneziana Solta,Fixar Grade Frontal Veneziana,Estrutura,Estrutura,Refrigerador
+33787.0,6258.0,5370.0,Evaporador Solto,Fixar Evaporador,Refrigeração,Refrigeração,Refrigerador
+33787.0,6258.0,7634.0,Evaporador Solto,Fixar Evaporador,Refrigeração,Refrigeração,Congelador
+33787.0,7090.0,5370.0,Evaporador Solto,Ordem De Piso (Retrabalho),Troca Equipamento,Refrigeração,Refrigerador
+33787.0,7091.0,5370.0,Evaporador Solto,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Refrigeração,Refrigerador
+33787.0,7092.0,5370.0,Evaporador Solto,Regulagem De Porta,Estrutura,Refrigeração,Refrigerador
+33788.0,6259.0,5370.0,Condensador Solto,Fixar Condensador,Refrigeração,Refrigeração,Refrigerador
+33788.0,6259.0,7634.0,Condensador Solto,Fixar Condensador,Refrigeração,Refrigeração,Congelador
+33788.0,7090.0,5370.0,Condensador Solto,Ordem De Piso (Retrabalho),Troca Equipamento,Refrigeração,Refrigerador
+33788.0,7091.0,5370.0,Condensador Solto,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Refrigeração,Refrigerador
+33788.0,7092.0,5370.0,Condensador Solto,Regulagem De Porta,Estrutura,Refrigeração,Refrigerador
+33788.0,7499.0,5370.0,Condensador Solto,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+33788.0,7499.0,5370.0,Condensador Solto,Visita Sta Com Troca De Peça,Troca De Peça,Refrigeração,Refrigerador
+33789.0,6260.0,5370.0,Charola Solta,Fixar Charola,Reparo,Estrutura,Refrigerador
+33789.0,7090.0,5370.0,Charola Solta,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33789.0,7091.0,5370.0,Charola Solta,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33789.0,7092.0,5370.0,Charola Solta,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33789.0,7499.0,5370.0,Charola Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33789.0,7499.0,5370.0,Charola Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33790.0,6167.0,5370.0,Filtro Secador Oxidado,Troca De Filtro Secador,Produto / Insumo,Água,Refrigerador
+33790.0,7090.0,5370.0,Filtro Secador Oxidado,Ordem De Piso (Retrabalho),Troca Equipamento,Água,Refrigerador
+33790.0,7091.0,5370.0,Filtro Secador Oxidado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Água,Refrigerador
+33790.0,7092.0,5370.0,Filtro Secador Oxidado,Regulagem De Porta,Estrutura,Água,Refrigerador
+33791.0,6261.0,5370.0,Micromotor Evaporador Solto,Fixar Micromotor Do Evaporador,Motor / Bomba,Motores,Refrigerador
+33791.0,6261.0,7634.0,Micromotor Evaporador Solto,Fixar Micromotor Do Evaporador,Motor / Bomba,Motores,Congelador
+33791.0,7090.0,5370.0,Micromotor Evaporador Solto,Ordem De Piso (Retrabalho),Troca Equipamento,Motores,Refrigerador
+33791.0,7091.0,5370.0,Micromotor Evaporador Solto,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Motores,Refrigerador
+33791.0,7092.0,5370.0,Micromotor Evaporador Solto,Regulagem De Porta,Estrutura,Motores,Refrigerador
+33792.0,6262.0,5370.0,Micromotor Condensador Solto,Fixar Micromotor Do Condensador,Motor / Bomba,Motores,Refrigerador
+33792.0,6262.0,7634.0,Micromotor Condensador Solto,Fixar Micromotor Do Condensador,Motor / Bomba,Motores,Congelador
+33792.0,7090.0,5370.0,Micromotor Condensador Solto,Ordem De Piso (Retrabalho),Troca Equipamento,Motores,Refrigerador
+33792.0,7091.0,5370.0,Micromotor Condensador Solto,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Motores,Refrigerador
+33792.0,7092.0,5370.0,Micromotor Condensador Solto,Regulagem De Porta,Estrutura,Motores,Refrigerador
+33793.0,6173.0,5370.0,Tubo Capilar Oxidado,Troca De Tubo Capilar,Refrigeração,Estrutura,Refrigerador
+33794.0,6263.0,5370.0,Faltando Lâmpada,Ajuste No Led,Ajuste / Regulagem,Iluminação,Refrigerador
+33794.0,7090.0,5370.0,Faltando Lâmpada,Ordem De Piso (Retrabalho),Troca Equipamento,Iluminação,Refrigerador
+33794.0,7091.0,5370.0,Faltando Lâmpada,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Iluminação,Refrigerador
+33794.0,7092.0,5370.0,Faltando Lâmpada,Regulagem De Porta,Estrutura,Iluminação,Refrigerador
+33795.0,6264.0,5370.0,Faltando Gaxeta,Reposição De Gaxeta,Estrutura,Estrutura,Refrigerador
+33795.0,7090.0,5370.0,Faltando Gaxeta,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33795.0,7091.0,5370.0,Faltando Gaxeta,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33795.0,7092.0,5370.0,Faltando Gaxeta,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33796.0,6265.0,5370.0,Faltando Puxador Da Porta,Reposição De Puxador Da Porta,Estrutura,Estrutura,Refrigerador
+33797.0,6266.0,5370.0,Faltando Dobradiça,Reposição De Dobradiça,Estrutura,Estrutura,Refrigerador
+33797.0,7090.0,5370.0,Faltando Dobradiça,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+33797.0,7091.0,5370.0,Faltando Dobradiça,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+33797.0,7092.0,5370.0,Faltando Dobradiça,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+33798.0,6248.0,5370.0,Dobradiça Oxidada,Troca De Dobradiça,Estrutura,Estrutura,Refrigerador
+33798.0,7499.0,5370.0,Dobradiça Oxidada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+33798.0,7499.0,5370.0,Dobradiça Oxidada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+37958.0,5503.0,5370.0,Problema Na Resistência,Troca Da Resistência,Troca De Peça,Elétrico,Refrigerador
+37958.0,7499.0,5370.0,Problema Na Resistência,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+37958.0,7499.0,5370.0,Problema Na Resistência,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+37959.0,4995.0,5370.0,Bloqueio No Evaporador,Troca De Gaxeta,Estrutura,Obstrução,Refrigerador
+37959.0,5503.0,5370.0,Bloqueio No Evaporador,Troca Da Resistência,Troca De Peça,Obstrução,Refrigerador
+37959.0,5648.0,5370.0,Bloqueio No Evaporador,Ajuste De Parâmetros,Ajuste / Regulagem,Obstrução,Refrigerador
+37959.0,6171.0,5370.0,Bloqueio No Evaporador,Troca De Micromotor Evaporador,Motor / Bomba,Obstrução,Refrigerador
+37959.0,6189.0,5370.0,Bloqueio No Evaporador,Reparo Na Resistência Do Evaporador,Refrigeração,Obstrução,Refrigerador
+37959.0,6243.0,5370.0,Bloqueio No Evaporador,Troca De Gaxeta Da Porta,Estrutura,Obstrução,Refrigerador
+37959.0,6244.0,5370.0,Bloqueio No Evaporador,Reparo Na Gaxeta Da Porta,Estrutura,Obstrução,Refrigerador
+37959.0,6705.0,5370.0,Bloqueio No Evaporador,Troca Motor Evaporador,Motor / Bomba,Obstrução,Refrigerador
+37959.0,6705.0,5370.0,Bloqueio No Evaporador,Troca Motor Evaporador,Motor / Bomba,Obstrução,Refrigerador
+37959.0,7499.0,5370.0,Bloqueio No Evaporador,Visita Sta Com Troca De Peça,Troca De Peça,Obstrução,Refrigerador
+37959.0,7499.0,5373.0,Bloqueio No Evaporador,Visita Sta Com Troca De Peça,Troca De Peça,Obstrução,Chopeira
+37959.0,7499.0,5370.0,Bloqueio No Evaporador,Visita Sta Com Troca De Peça,Troca De Peça,Obstrução,Refrigerador
+37959.0,7499.0,5373.0,Bloqueio No Evaporador,Visita Sta Com Troca De Peça,Troca De Peça,Obstrução,Chopeira
+39346.0,4982.0,7634.0,Equipamento Em Curto,Solicitar Troca De Equipamento,Troca Equipamento,Elétrico,Congelador
+39346.0,5071.0,7634.0,Equipamento Em Curto,Solicitar Troca De Equipamento,Troca Equipamento,Elétrico,Congelador
+39346.0,5102.0,7634.0,Equipamento Em Curto,Troca/Reparo Em Porta,Estrutura,Elétrico,Congelador
+39346.0,5116.0,7634.0,Equipamento Em Curto,Troca De Transformador,Sistema Elétrico,Elétrico,Congelador
+39346.0,5128.0,7634.0,Equipamento Em Curto,Troca De Resistência,Troca De Peça,Elétrico,Congelador
+39346.0,5131.0,7634.0,Equipamento Em Curto,Troca De Termostato,Sensores / Controle,Elétrico,Congelador
+39346.0,5240.0,7634.0,Equipamento Em Curto,Equipamento Recolhido,Troca Equipamento,Elétrico,Congelador
+39346.0,5501.0,7634.0,Equipamento Em Curto,Troca Da Fiação,Sistema Elétrico,Elétrico,Congelador
+39346.0,5504.0,7634.0,Equipamento Em Curto,Troca Do Sensor De Temperatura,Sensores / Controle,Elétrico,Congelador
+39346.0,5506.0,7634.0,Equipamento Em Curto,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Congelador
+39346.0,5652.0,7634.0,Equipamento Em Curto,Ligar Na Tomada Com A Tensão Correta,Sistema Elétrico,Elétrico,Congelador
+39346.0,5654.0,7634.0,Equipamento Em Curto,Revisão Geral No Sistema Elétrico,Outros,Elétrico,Congelador
+39346.0,5656.0,7634.0,Equipamento Em Curto,Sucateado,Troca Equipamento,Elétrico,Congelador
+39346.0,6163.0,7634.0,Equipamento Em Curto,Troca De Micromotor Do Condensador,Motor / Bomba,Elétrico,Congelador
+39346.0,6215.0,7634.0,Equipamento Em Curto,Troca De Equipamento,Troca Equipamento,Elétrico,Congelador
+39346.0,6598.0,7634.0,Equipamento Em Curto,Troca De Relé,Troca De Peça,Elétrico,Congelador
+39346.0,6598.0,5370.0,Equipamento Em Curto,Troca De Relé,Troca De Peça,Elétrico,Refrigerador
+39346.0,6598.0,7634.0,Equipamento Em Curto,Troca De Relé,Troca De Peça,Elétrico,Congelador
+39346.0,6750.0,5370.0,Equipamento Em Curto,Cliente Não Autorizou,Orientação Cliente,Elétrico,Refrigerador
+39346.0,7513.0,7634.0,Equipamento Em Curto,Troca Técnica,Troca De Peça,Elétrico,Congelador
+40526.0,4969.0,5370.0,Evaporador Obstruído,Carga De Gás Refrigerante,Recarga De Gás,Obstrução,Refrigerador
+40526.0,6703.0,5370.0,Evaporador Obstruído,Limpeza Do Evaporador,Refrigeração,Obstrução,Refrigerador
+40526.0,7499.0,5370.0,Evaporador Obstruído,Visita Sta Com Troca De Peça,Troca De Peça,Obstrução,Refrigerador
+40526.0,7499.0,5370.0,Evaporador Obstruído,Visita Sta Com Troca De Peça,Troca De Peça,Obstrução,Refrigerador
+41378.0,4969.0,5370.0,Condensador Com Vazamento,Carga De Gás Refrigerante,Recarga De Gás,Vazamento,Refrigerador
+41378.0,5516.0,5370.0,Condensador Com Vazamento,Troca Condensador,Refrigeração,Vazamento,Refrigerador
+41378.0,7499.0,5370.0,Condensador Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+41378.0,7499.0,5373.0,Condensador Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Chopeira
+41378.0,7499.0,5373.0,Condensador Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Chopeira
+41378.0,7499.0,5370.0,Condensador Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Refrigerador
+41379.0,4969.0,5370.0,Vazamento Do Filtro Secador,Carga De Gás Refrigerante,Recarga De Gás,Água,Refrigerador
+41379.0,4994.0,5370.0,Vazamento Do Filtro Secador,Troca De Filtro Secador,Produto / Insumo,Água,Refrigerador
+41379.0,7499.0,5370.0,Vazamento Do Filtro Secador,Visita Sta Com Troca De Peça,Troca De Peça,Água,Refrigerador
+41379.0,7499.0,5370.0,Vazamento Do Filtro Secador,Visita Sta Com Troca De Peça,Troca De Peça,Água,Refrigerador
+41380.0,4969.0,5370.0,Capilar Com Vazamento,Carga De Gás Refrigerante,Recarga De Gás,Vazamento,Refrigerador
+41380.0,4990.0,5370.0,Capilar Com Vazamento,Troca De Capilar,Refrigeração,Vazamento,Refrigerador
+41380.0,7499.0,5373.0,Capilar Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Chopeira
+41380.0,7499.0,5373.0,Capilar Com Vazamento,Visita Sta Com Troca De Peça,Troca De Peça,Vazamento,Chopeira
+41381.0,6705.0,5370.0,Micromotor Evaporador Queimado,Troca Motor Evaporador,Motor / Bomba,Motores,Refrigerador
+41381.0,7499.0,5370.0,Micromotor Evaporador Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41381.0,7499.0,5370.0,Micromotor Evaporador Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41382.0,6705.0,5370.0,Micromotor Evaporador Com Ruído,Troca Motor Evaporador,Motor / Bomba,Motores,Refrigerador
+41382.0,7499.0,5370.0,Micromotor Evaporador Com Ruído,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41382.0,7499.0,5370.0,Micromotor Evaporador Com Ruído,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41383.0,4997.0,5370.0,Micromotor Evaporador Travado,Troca De Hélice,Troca De Peça,Motores,Refrigerador
+41383.0,7499.0,5370.0,Micromotor Evaporador Travado,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41383.0,7499.0,5370.0,Micromotor Evaporador Travado,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41384.0,6706.0,5370.0,Micromotor Evaporador Solto,Fixar Micromotor Do Evaporador,Motor / Bomba,Motores,Refrigerador
+41384.0,7499.0,5370.0,Micromotor Evaporador Solto,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41384.0,7499.0,5370.0,Micromotor Evaporador Solto,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41385.0,4997.0,5370.0,Hélice De Micromotor Evaporador Quebrado,Troca De Hélice,Troca De Peça,Estrutura,Refrigerador
+41385.0,5499.0,5370.0,Hélice De Micromotor Evaporador Quebrado,Ajuste Da Hélice,Ajuste / Regulagem,Estrutura,Refrigerador
+41385.0,7499.0,5370.0,Hélice De Micromotor Evaporador Quebrado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41385.0,7499.0,5370.0,Hélice De Micromotor Evaporador Quebrado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41386.0,6707.0,5370.0,Micromotor Do Condensador Queimado,Troca De Micromotor Do Condensador,Motor / Bomba,Motores,Refrigerador
+41386.0,7499.0,5370.0,Micromotor Do Condensador Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41386.0,7499.0,5370.0,Micromotor Do Condensador Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41387.0,6707.0,5370.0,Micromotor Do Condensador Travado,Troca De Micromotor Do Condensador,Motor / Bomba,Motores,Refrigerador
+41388.0,4985.0,5370.0,Micromotor Do Condensador Com Ruído,Troca/Reparo Em Micro Motor,Motor / Bomba,Motores,Refrigerador
+41388.0,6707.0,5370.0,Micromotor Do Condensador Com Ruído,Troca De Micromotor Do Condensador,Motor / Bomba,Motores,Refrigerador
+41388.0,7499.0,5370.0,Micromotor Do Condensador Com Ruído,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41388.0,7499.0,5370.0,Micromotor Do Condensador Com Ruído,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41389.0,6727.0,5370.0,Micromotor Do Condensador Solto,Fixar Motor Do Condensador,Motor / Bomba,Motores,Refrigerador
+41389.0,7499.0,5370.0,Micromotor Do Condensador Solto,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41389.0,7499.0,5370.0,Micromotor Do Condensador Solto,Visita Sta Com Troca De Peça,Troca De Peça,Motores,Refrigerador
+41390.0,4997.0,5370.0,Hélice De Micromotor Condensador Quebrado,Troca De Hélice,Troca De Peça,Estrutura,Refrigerador
+41390.0,5499.0,5370.0,Hélice De Micromotor Condensador Quebrado,Ajuste Da Hélice,Ajuste / Regulagem,Estrutura,Refrigerador
+41390.0,7090.0,5370.0,Hélice De Micromotor Condensador Quebrado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+41390.0,7091.0,5370.0,Hélice De Micromotor Condensador Quebrado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+41390.0,7092.0,5370.0,Hélice De Micromotor Condensador Quebrado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+41390.0,7499.0,5370.0,Hélice De Micromotor Condensador Quebrado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41390.0,7499.0,5370.0,Hélice De Micromotor Condensador Quebrado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41391.0,5224.0,5370.0,Placa Eletrônica,Troca Do Display,Sensores / Controle,Controle Eletrônico,Refrigerador
+41391.0,5236.0,5370.0,Placa Eletrônica,Ajuste Nos Parâmetros,Ajuste / Regulagem,Controle Eletrônico,Refrigerador
+41391.0,5660.0,5370.0,Placa Eletrônica,Troca Display,Sensores / Controle,Controle Eletrônico,Refrigerador
+41391.0,7499.0,5370.0,Placa Eletrônica,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+41391.0,7499.0,5370.0,Placa Eletrônica,Visita Sta Com Troca De Peça,Troca De Peça,Controle Eletrônico,Refrigerador
+41392.0,4995.0,5370.0,Porta Sem Vedação,Troca De Gaxeta,Estrutura,Estrutura,Refrigerador
+41392.0,7499.0,5370.0,Porta Sem Vedação,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41392.0,7499.0,5370.0,Porta Sem Vedação,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41393.0,6709.0,5370.0,Dobradiça Com Defeito,Reparo No Auto-Fechamento,Reparo,Estrutura,Refrigerador
+41393.0,7499.0,5370.0,Dobradiça Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41393.0,7499.0,5370.0,Dobradiça Com Defeito,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41394.0,6711.0,5370.0,Bandeja Do Evaporador Danificada,Troca Na Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+41394.0,6725.0,7634.0,Bandeja Do Evaporador Danificada,Troca Na Bandeja Do Evaporador,Estrutura,Estrutura,Congelador
+41394.0,7499.0,5373.0,Bandeja Do Evaporador Danificada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Chopeira
+41394.0,7499.0,5373.0,Bandeja Do Evaporador Danificada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Chopeira
+41394.0,7499.0,7634.0,Bandeja Do Evaporador Danificada,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Congelador
+41395.0,6711.0,5370.0,Bandeja Do Evaporador Quebrada/Solta,Troca Na Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+41395.0,6712.0,5370.0,Bandeja Do Evaporador Quebrada/Solta,Fixar Bandeja  Do Evaporador,Estrutura,Estrutura,Refrigerador
+41395.0,7499.0,5373.0,Bandeja Do Evaporador Quebrada/Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Chopeira
+41395.0,7499.0,5370.0,Bandeja Do Evaporador Quebrada/Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41395.0,7499.0,5373.0,Bandeja Do Evaporador Quebrada/Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Chopeira
+41395.0,7499.0,5370.0,Bandeja Do Evaporador Quebrada/Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41396.0,5236.0,5370.0,Condensador Solto,Ajuste Nos Parâmetros,Ajuste / Regulagem,Refrigeração,Refrigerador
+41396.0,6179.0,5370.0,Condensador Solto,Ajustes Nos Parâmetros,Ajuste / Regulagem,Refrigeração,Refrigerador
+41396.0,6713.0,5370.0,Condensador Solto,Fixar Condensador,Refrigeração,Refrigeração,Refrigerador
+41396.0,6713.0,5370.0,Condensador Solto,Fixar Condensador,Refrigeração,Refrigeração,Refrigerador
+41397.0,6720.0,5370.0,Plug Quebrado,Troca De Plug,Sistema Elétrico,Estrutura,Refrigerador
+41397.0,7090.0,5370.0,Plug Quebrado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+41397.0,7091.0,5370.0,Plug Quebrado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+41397.0,7092.0,5370.0,Plug Quebrado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+41397.0,7499.0,5370.0,Plug Quebrado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41397.0,7499.0,5370.0,Plug Quebrado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41398.0,6721.0,5370.0,Interruptor De Aleta Com Defeito,Troca De Interruptor De Aleta,Troca De Peça,Elétrico,Refrigerador
+41399.0,5092.0,5376.0,Canaleta Fora De Posição,Desobstrução De Canaletas,Limpeza,Estrutura,Vending Machine
+41399.0,6723.0,5370.0,Canaleta Fora De Posição,Ajuste De Canaleta,Ajuste / Regulagem,Estrutura,Refrigerador
+41400.0,6725.0,5370.0,Bandeja Do Evaporador Quebrada/Solta,Troca Na Bandeja Do Evaporador,Estrutura,Estrutura,Refrigerador
+41400.0,7499.0,5370.0,Bandeja Do Evaporador Quebrada/Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41400.0,7499.0,5370.0,Bandeja Do Evaporador Quebrada/Solta,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41401.0,6726.0,5370.0,Grade Frontal Veneziana Quebrado,Troca De Grade Frontal Veneziana,Estrutura,Estrutura,Refrigerador
+41401.0,7090.0,5370.0,Grade Frontal Veneziana Quebrado,Ordem De Piso (Retrabalho),Troca Equipamento,Estrutura,Refrigerador
+41401.0,7091.0,5370.0,Grade Frontal Veneziana Quebrado,Ordem De Piso (Condenado Sem Conserto),Troca Equipamento,Estrutura,Refrigerador
+41401.0,7092.0,5370.0,Grade Frontal Veneziana Quebrado,Regulagem De Porta,Estrutura,Estrutura,Refrigerador
+41401.0,7499.0,5370.0,Grade Frontal Veneziana Quebrado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+41401.0,7499.0,5370.0,Grade Frontal Veneziana Quebrado,Visita Sta Com Troca De Peça,Troca De Peça,Estrutura,Refrigerador
+44000.0,6878.0,5370.0,Rele Queimado,Troca De Relé,Troca De Peça,Elétrico,Refrigerador
+44000.0,6878.0,5370.0,Rele Queimado,Troca De Relé,Troca De Peça,Elétrico,Refrigerador
+44000.0,7499.0,5370.0,Rele Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+44000.0,7499.0,5370.0,Rele Queimado,Visita Sta Com Troca De Peça,Troca De Peça,Elétrico,Refrigerador
+59393.0,8401.0,5373.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Chopeira
+59393.0,8401.0,5371.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Post Mix
+59393.0,8401.0,5373.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Chopeira
+59393.0,8401.0,5371.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Post Mix
+59393.0,8401.0,5371.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Post Mix
+59393.0,8401.0,5371.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Post Mix
+59393.0,8401.0,5371.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Post Mix
+59393.0,8401.0,5373.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Chopeira
+59393.0,8401.0,5373.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Chopeira
+59393.0,8401.0,5371.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Post Mix
+59393.0,8401.0,5373.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Chopeira
+59393.0,8401.0,5373.0,Ar No Sistema,Sangria No Sistema,Refrigeração,Refrigeração,Chopeira
+59394.0,8408.0,5371.0,Bomba De Circulação Quebrada,Troca Da Bomba De Circulação,Motor / Bomba,Estrutura,Post Mix
+59394.0,8408.0,5373.0,Bomba De Circulação Quebrada,Troca Da Bomba De Circulação,Motor / Bomba,Estrutura,Chopeira
+59394.0,8408.0,5373.0,Bomba De Circulação Quebrada,Troca Da Bomba De Circulação,Motor / Bomba,Estrutura,Chopeira
+59394.0,8408.0,5371.0,Bomba De Circulação Quebrada,Troca Da Bomba De Circulação,Motor / Bomba,Estrutura,Post Mix
+59395.0,8417.0,5373.0,Carenagem Quebrada,Troca Ou Ajuste,Ajuste / Regulagem,Estrutura,Chopeira
+59395.0,8417.0,5371.0,Carenagem Quebrada,Troca Ou Ajuste,Ajuste / Regulagem,Estrutura,Post Mix
+59395.0,8417.0,5371.0,Carenagem Quebrada,Troca Ou Ajuste,Ajuste / Regulagem,Estrutura,Post Mix
+59395.0,8417.0,5373.0,Carenagem Quebrada,Troca Ou Ajuste,Ajuste / Regulagem,Estrutura,Chopeira
+59397.0,8414.0,5373.0,Congelamento Do Sistema,Descongelar A Máquina,Limpeza,Refrigeração,Chopeira
+59397.0,8414.0,5371.0,Congelamento Do Sistema,Descongelar A Máquina,Limpeza,Refrigeração,Post Mix
+59397.0,8414.0,5373.0,Congelamento Do Sistema,Descongelar A Máquina,Limpeza,Refrigeração,Chopeira
+59397.0,8414.0,5371.0,Congelamento Do Sistema,Descongelar A Máquina,Limpeza,Refrigeração,Post Mix
+59398.0,8406.0,5373.0,Controlador Com Defeito,Troca Do Controlador,Sensores / Controle,Controle Eletrônico,Chopeira
+59398.0,8406.0,5371.0,Controlador Com Defeito,Troca Do Controlador,Sensores / Controle,Controle Eletrônico,Post Mix
+59398.0,8406.0,5373.0,Controlador Com Defeito,Troca Do Controlador,Sensores / Controle,Controle Eletrônico,Chopeira
+59398.0,8406.0,5371.0,Controlador Com Defeito,Troca Do Controlador,Sensores / Controle,Controle Eletrônico,Post Mix
+59399.0,8407.0,5373.0,Controlador Desregulado,Ajuste Do Controlador,Sensores / Controle,Ajuste / Regulagem,Chopeira
+59399.0,8407.0,5371.0,Controlador Desregulado,Ajuste Do Controlador,Sensores / Controle,Ajuste / Regulagem,Post Mix
+59399.0,8407.0,5371.0,Controlador Desregulado,Ajuste Do Controlador,Sensores / Controle,Ajuste / Regulagem,Post Mix
+59399.0,8407.0,5373.0,Controlador Desregulado,Ajuste Do Controlador,Sensores / Controle,Ajuste / Regulagem,Chopeira
+59400.0,8387.0,5371.0,Defeito Na Peça Funcional,Troca Da Peça,Troca De Peça,Estrutura,Post Mix
+59400.0,8387.0,5373.0,Defeito Na Peça Funcional,Troca Da Peça,Troca De Peça,Estrutura,Chopeira
+59400.0,8387.0,5373.0,Defeito Na Peça Funcional,Troca Da Peça,Troca De Peça,Estrutura,Chopeira
+59400.0,8387.0,5371.0,Defeito Na Peça Funcional,Troca Da Peça,Troca De Peça,Estrutura,Post Mix
+59403.0,8393.0,5373.0,Excesso De Água No Gabinete,Esgotar O Gabinete,Estrutura,Água,Chopeira
+59403.0,8393.0,5371.0,Excesso De Água No Gabinete,Esgotar O Gabinete,Estrutura,Água,Post Mix
+59403.0,8393.0,5373.0,Excesso De Água No Gabinete,Esgotar O Gabinete,Estrutura,Água,Chopeira
+59403.0,8393.0,5371.0,Excesso De Água No Gabinete,Esgotar O Gabinete,Estrutura,Água,Post Mix
+59405.0,8416.0,5371.0,Falta De Aterramento No Equipamento,Fazer Sistema De Aterramento No Equipamento,Sistema Elétrico,Elétrico,Post Mix
+59405.0,8416.0,5373.0,Falta De Aterramento No Equipamento,Fazer Sistema De Aterramento No Equipamento,Sistema Elétrico,Elétrico,Chopeira
+59405.0,8416.0,5373.0,Falta De Aterramento No Equipamento,Fazer Sistema De Aterramento No Equipamento,Sistema Elétrico,Elétrico,Chopeira
+59405.0,8416.0,5371.0,Falta De Aterramento No Equipamento,Fazer Sistema De Aterramento No Equipamento,Sistema Elétrico,Elétrico,Post Mix
+59411.0,8420.0,5373.0,Falta De Sanitização,Fazer Sanitização,Limpeza,Sanitização / Contaminação,Chopeira
+59411.0,8420.0,5371.0,Falta De Sanitização,Fazer Sanitização,Limpeza,Sanitização / Contaminação,Post Mix
+59411.0,8420.0,5371.0,Falta De Sanitização,Fazer Sanitização,Limpeza,Sanitização / Contaminação,Post Mix
+59411.0,8420.0,5373.0,Falta De Sanitização,Fazer Sanitização,Limpeza,Sanitização / Contaminação,Chopeira
+59413.0,8401.0,5373.0,Falta Gás,Sangria No Sistema,Refrigeração,Refrigeração,Chopeira
+59413.0,8401.0,5371.0,Falta Gás,Sangria No Sistema,Refrigeração,Refrigeração,Post Mix
+59413.0,8401.0,5371.0,Falta Gás,Sangria No Sistema,Refrigeração,Refrigeração,Post Mix
+59413.0,8401.0,5373.0,Falta Gás,Sangria No Sistema,Refrigeração,Refrigeração,Chopeira
+59414.0,8385.0,5373.0,Ferrugem No Gabinete,Defeito Sem Solução,Outros,Estrutura,Chopeira
+59414.0,8385.0,5371.0,Ferrugem No Gabinete,Defeito Sem Solução,Outros,Estrutura,Post Mix
+59414.0,8385.0,5373.0,Ferrugem No Gabinete,Defeito Sem Solução,Outros,Estrutura,Chopeira
+59414.0,8385.0,5371.0,Ferrugem No Gabinete,Defeito Sem Solução,Outros,Estrutura,Post Mix
+59414.0,8386.0,5371.0,Ferrugem No Gabinete,Pequeno Retoque,Outros,Estrutura,Post Mix
+59414.0,8386.0,5373.0,Ferrugem No Gabinete,Pequeno Retoque,Outros,Estrutura,Chopeira
+59414.0,8386.0,5373.0,Ferrugem No Gabinete,Pequeno Retoque,Outros,Estrutura,Chopeira
+59414.0,8386.0,5371.0,Ferrugem No Gabinete,Pequeno Retoque,Outros,Estrutura,Post Mix
+59415.0,8385.0,5373.0,Ferrugem No Rack,Defeito Sem Solução,Outros,Estrutura,Chopeira
+59415.0,8385.0,5373.0,Ferrugem No Rack,Defeito Sem Solução,Outros,Estrutura,Chopeira
+59415.0,8385.0,5371.0,Ferrugem No Rack,Defeito Sem Solução,Outros,Estrutura,Post Mix
+59415.0,8385.0,5371.0,Ferrugem No Rack,Defeito Sem Solução,Outros,Estrutura,Post Mix
+59415.0,8386.0,5371.0,Ferrugem No Rack,Pequeno Retoque,Outros,Estrutura,Post Mix
+59415.0,8386.0,5371.0,Ferrugem No Rack,Pequeno Retoque,Outros,Estrutura,Post Mix
+59415.0,8386.0,5373.0,Ferrugem No Rack,Pequeno Retoque,Outros,Estrutura,Chopeira
+59415.0,8386.0,5373.0,Ferrugem No Rack,Pequeno Retoque,Outros,Estrutura,Chopeira
+59416.0,8400.0,5371.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Post Mix
+59416.0,8400.0,5373.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Chopeira
+59416.0,8400.0,5373.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Chopeira
+59416.0,8400.0,5373.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Chopeira
+59416.0,8400.0,5373.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Chopeira
+59416.0,8400.0,5373.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Chopeira
+59416.0,8400.0,5371.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Post Mix
+59416.0,8400.0,5371.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Post Mix
+59416.0,8400.0,5371.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Post Mix
+59416.0,8400.0,5371.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Post Mix
+59416.0,8400.0,5371.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Post Mix
+59416.0,8400.0,5373.0,Filtro Saturado,Troca Do Filtro,Produto / Insumo,Água,Chopeira
+59417.0,8411.0,5373.0,Fio Com Mau Contato,Troca Ou Ajuste No Fio,Ajuste / Regulagem,Elétrico,Chopeira
+59417.0,8411.0,5371.0,Fio Com Mau Contato,Troca Ou Ajuste No Fio,Ajuste / Regulagem,Elétrico,Post Mix
+59417.0,8411.0,5371.0,Fio Com Mau Contato,Troca Ou Ajuste No Fio,Ajuste / Regulagem,Elétrico,Post Mix
+59417.0,8411.0,5373.0,Fio Com Mau Contato,Troca Ou Ajuste No Fio,Ajuste / Regulagem,Elétrico,Chopeira
+59418.0,8387.0,5373.0,Luminoso Quebrado,Troca Da Peça,Troca De Peça,Iluminação,Chopeira
+59418.0,8387.0,5373.0,Luminoso Quebrado,Troca Da Peça,Troca De Peça,Iluminação,Chopeira
+59418.0,8387.0,5371.0,Luminoso Quebrado,Troca Da Peça,Troca De Peça,Iluminação,Post Mix
+59418.0,8387.0,5371.0,Luminoso Quebrado,Troca Da Peça,Troca De Peça,Iluminação,Post Mix
+59419.0,8387.0,5373.0,Micro Com Defeito,Troca Da Peça,Troca De Peça,Motores,Chopeira
+59419.0,8387.0,5373.0,Micro Com Defeito,Troca Da Peça,Troca De Peça,Motores,Chopeira
+59419.0,8387.0,5371.0,Micro Com Defeito,Troca Da Peça,Troca De Peça,Motores,Post Mix
+59419.0,8387.0,5371.0,Micro Com Defeito,Troca Da Peça,Troca De Peça,Motores,Post Mix
+59420.0,8387.0,5371.0,Motor Do Agitador Com Defeito,Troca Da Peça,Troca De Peça,Motores,Post Mix
+59420.0,8387.0,5373.0,Motor Do Agitador Com Defeito,Troca Da Peça,Troca De Peça,Motores,Chopeira
+59420.0,8387.0,5371.0,Motor Do Agitador Com Defeito,Troca Da Peça,Troca De Peça,Motores,Post Mix
+59420.0,8387.0,5373.0,Motor Do Agitador Com Defeito,Troca Da Peça,Troca De Peça,Motores,Chopeira
+59423.0,8387.0,5373.0,Peça Em Curto,Troca Da Peça,Troca De Peça,Elétrico,Chopeira
+59423.0,8387.0,5373.0,Peça Em Curto,Troca Da Peça,Troca De Peça,Elétrico,Chopeira
+59423.0,8387.0,5371.0,Peça Em Curto,Troca Da Peça,Troca De Peça,Elétrico,Post Mix
+59423.0,8387.0,5371.0,Peça Em Curto,Troca Da Peça,Troca De Peça,Elétrico,Post Mix
+59424.0,8387.0,5371.0,Peça Quebrada,Troca Da Peça,Troca De Peça,Estrutura,Post Mix
+59424.0,8387.0,5371.0,Peça Quebrada,Troca Da Peça,Troca De Peça,Estrutura,Post Mix
+59424.0,8387.0,5373.0,Peça Quebrada,Troca Da Peça,Troca De Peça,Estrutura,Chopeira
+59424.0,8387.0,5373.0,Peça Quebrada,Troca Da Peça,Troca De Peça,Estrutura,Chopeira
+59424.0,8387.0,5371.0,Peça Quebrada,Troca Da Peça,Troca De Peça,Estrutura,Post Mix
+59424.0,8387.0,5373.0,Peça Quebrada,Troca Da Peça,Troca De Peça,Estrutura,Chopeira
+59424.0,8387.0,5373.0,Peça Quebrada,Troca Da Peça,Troca De Peça,Estrutura,Chopeira
+59424.0,8387.0,5371.0,Peça Quebrada,Troca Da Peça,Troca De Peça,Estrutura,Post Mix
+59425.0,8387.0,5373.0,Peça Queimada,Troca Da Peça,Troca De Peça,Elétrico,Chopeira
+59425.0,8387.0,5371.0,Peça Queimada,Troca Da Peça,Troca De Peça,Elétrico,Post Mix
+59425.0,8387.0,5371.0,Peça Queimada,Troca Da Peça,Troca De Peça,Elétrico,Post Mix
+59425.0,8387.0,5373.0,Peça Queimada,Troca Da Peça,Troca De Peça,Elétrico,Chopeira
+59425.0,8387.0,5373.0,Peça Queimada,Troca Da Peça,Troca De Peça,Elétrico,Chopeira
+59425.0,8387.0,5371.0,Peça Queimada,Troca Da Peça,Troca De Peça,Elétrico,Post Mix
+59425.0,8387.0,5371.0,Peça Queimada,Troca Da Peça,Troca De Peça,Elétrico,Post Mix
+59425.0,8387.0,5373.0,Peça Queimada,Troca Da Peça,Troca De Peça,Elétrico,Chopeira
+59426.0,8395.0,5373.0,Peças Funcional Com Problema,Troca Na Peça,Troca De Peça,Estrutura,Chopeira
+59426.0,8395.0,5371.0,Peças Funcional Com Problema,Troca Na Peça,Troca De Peça,Estrutura,Post Mix
+59426.0,8395.0,5373.0,Peças Funcional Com Problema,Troca Na Peça,Troca De Peça,Estrutura,Chopeira
+59426.0,8395.0,5371.0,Peças Funcional Com Problema,Troca Na Peça,Troca De Peça,Estrutura,Post Mix
+59427.0,8418.0,5373.0,Plotagem Danificada/Rasgada,Troca Da Plotagem,Troca De Peça,Estrutura,Chopeira
+59427.0,8418.0,5371.0,Plotagem Danificada/Rasgada,Troca Da Plotagem,Troca De Peça,Estrutura,Post Mix
+59427.0,8418.0,5371.0,Plotagem Danificada/Rasgada,Troca Da Plotagem,Troca De Peça,Estrutura,Post Mix
+59427.0,8418.0,5373.0,Plotagem Danificada/Rasgada,Troca Da Plotagem,Troca De Peça,Estrutura,Chopeira
+59428.0,8392.0,5373.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Chopeira
+59428.0,8392.0,5373.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Chopeira
+59428.0,8392.0,5373.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Chopeira
+59428.0,8392.0,5371.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Post Mix
+59428.0,8392.0,5373.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Chopeira
+59428.0,8392.0,5371.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Post Mix
+59428.0,8392.0,5371.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Post Mix
+59428.0,8392.0,5373.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Chopeira
+59428.0,8392.0,5373.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Chopeira
+59428.0,8392.0,5371.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Post Mix
+59428.0,8392.0,5371.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Post Mix
+59428.0,8392.0,5371.0,Porta Do Suco,Troca Da Gaxeta Ou Ajuste Da Porta,Estrutura,Estrutura,Post Mix
+59429.0,8388.0,5373.0,Produto: Chopp Com Mau Cheiro,Necessidade De Sanitização,Limpeza,Produto,Chopeira
+59429.0,8388.0,5373.0,Produto: Chopp Com Mau Cheiro,Necessidade De Sanitização,Limpeza,Produto,Chopeira
+59429.0,8421.0,5373.0,Produto: Chopp Com Mau Cheiro,"Troca Do Chopp, Estragado",Produto / Insumo,Produto,Chopeira
+59429.0,8421.0,5373.0,Produto: Chopp Com Mau Cheiro,"Troca Do Chopp, Estragado",Produto / Insumo,Produto,Chopeira
+59430.0,8388.0,5371.0,Produto Com Mau Cheiro,Necessidade De Sanitização,Limpeza,Produto,Post Mix
+59430.0,8388.0,5371.0,Produto Com Mau Cheiro,Necessidade De Sanitização,Limpeza,Produto,Post Mix
+59430.0,8389.0,5371.0,Produto Com Mau Cheiro,"Troca Do Produto, Estragado",Produto / Insumo,Produto,Post Mix
+59430.0,8389.0,5371.0,Produto Com Mau Cheiro,"Troca Do Produto, Estragado",Produto / Insumo,Produto,Post Mix
+59433.0,5062.0,5371.0,Sistema De Água Crua,Troca Mangueiras Xarope/Água,Produto / Insumo,Água,Post Mix
+59433.0,5062.0,5373.0,Sistema De Água Crua,Troca Mangueiras Xarope/Água,Produto / Insumo,Água,Chopeira
+59433.0,5062.0,5371.0,Sistema De Água Crua,Troca Mangueiras Xarope/Água,Produto / Insumo,Água,Post Mix
+59433.0,5062.0,5371.0,Sistema De Água Crua,Troca Mangueiras Xarope/Água,Produto / Insumo,Água,Post Mix
+59433.0,5062.0,5373.0,Sistema De Água Crua,Troca Mangueiras Xarope/Água,Produto / Insumo,Água,Chopeira
+59433.0,5062.0,5373.0,Sistema De Água Crua,Troca Mangueiras Xarope/Água,Produto / Insumo,Água,Chopeira
+59433.0,5062.0,5371.0,Sistema De Água Crua,Troca Mangueiras Xarope/Água,Produto / Insumo,Água,Post Mix
+59433.0,5062.0,5373.0,Sistema De Água Crua,Troca Mangueiras Xarope/Água,Produto / Insumo,Água,Chopeira
+59433.0,5089.0,5371.0,Sistema De Água Crua,Troca De Espigão,Troca De Peça,Água,Post Mix
+59433.0,5089.0,5373.0,Sistema De Água Crua,Troca De Espigão,Troca De Peça,Água,Chopeira
+59433.0,5089.0,5371.0,Sistema De Água Crua,Troca De Espigão,Troca De Peça,Água,Post Mix
+59433.0,5089.0,5373.0,Sistema De Água Crua,Troca De Espigão,Troca De Peça,Água,Chopeira
+59434.0,5052.0,5371.0,Sistema Elétrico,Troca De Lâmpada,Troca De Peça,Elétrico,Post Mix
+59434.0,5052.0,5373.0,Sistema Elétrico,Troca De Lâmpada,Troca De Peça,Elétrico,Chopeira
+59434.0,5052.0,5371.0,Sistema Elétrico,Troca De Lâmpada,Troca De Peça,Elétrico,Post Mix
+59434.0,5052.0,5373.0,Sistema Elétrico,Troca De Lâmpada,Troca De Peça,Elétrico,Chopeira
+59435.0,8385.0,5371.0,Tampa Do Gabinete Amassado,Defeito Sem Solução,Outros,Estrutura,Post Mix
+59435.0,8385.0,5373.0,Tampa Do Gabinete Amassado,Defeito Sem Solução,Outros,Estrutura,Chopeira
+59435.0,8385.0,5371.0,Tampa Do Gabinete Amassado,Defeito Sem Solução,Outros,Estrutura,Post Mix
+59435.0,8385.0,5373.0,Tampa Do Gabinete Amassado,Defeito Sem Solução,Outros,Estrutura,Chopeira
+59435.0,8422.0,5373.0,Tampa Do Gabinete Amassado,Desamassado,Estrutura,Estrutura,Chopeira
+59435.0,8422.0,5373.0,Tampa Do Gabinete Amassado,Desamassado,Estrutura,Estrutura,Chopeira
+59437.0,8420.0,5373.0,Troca De Produto Sem Limpeza,Fazer Sanitização,Limpeza,Limpeza,Chopeira
+59437.0,8420.0,5371.0,Troca De Produto Sem Limpeza,Fazer Sanitização,Limpeza,Limpeza,Post Mix
+59437.0,8420.0,5371.0,Troca De Produto Sem Limpeza,Fazer Sanitização,Limpeza,Limpeza,Post Mix
+59437.0,8420.0,5373.0,Troca De Produto Sem Limpeza,Fazer Sanitização,Limpeza,Limpeza,Chopeira
+59438.0,8399.0,5373.0,Válvula Com Defeito Ou Fechada,Ajuste Da Válvula,Ajuste / Regulagem,Refrigeração,Chopeira
+59438.0,8399.0,5373.0,Válvula Com Defeito Ou Fechada,Ajuste Da Válvula,Ajuste / Regulagem,Refrigeração,Chopeira
+59438.0,8399.0,5373.0,Válvula Com Defeito Ou Fechada,Ajuste Da Válvula,Ajuste / Regulagem,Refrigeração,Chopeira
+59438.0,8399.0,5373.0,Válvula Com Defeito Ou Fechada,Ajuste Da Válvula,Ajuste / Regulagem,Refrigeração,Chopeira
+59438.0,8399.0,5371.0,Válvula Com Defeito Ou Fechada,Ajuste Da Válvula,Ajuste / Regulagem,Refrigeração,Post Mix
+59438.0,8399.0,5371.0,Válvula Com Defeito Ou Fechada,Ajuste Da Válvula,Ajuste / Regulagem,Refrigeração,Post Mix
+59438.0,8399.0,5371.0,Válvula Com Defeito Ou Fechada,Ajuste Da Válvula,Ajuste / Regulagem,Refrigeração,Post Mix
+59438.0,8399.0,5371.0,Válvula Com Defeito Ou Fechada,Ajuste Da Válvula,Ajuste / Regulagem,Refrigeração,Post Mix
+59439.0,8413.0,5371.0,Válvula Travada,Regulagem Ou Troca Da Válvula,Ajuste / Regulagem,Refrigeração,Post Mix
+59439.0,8413.0,5373.0,Válvula Travada,Regulagem Ou Troca Da Válvula,Ajuste / Regulagem,Refrigeração,Chopeira
+59439.0,8413.0,5371.0,Válvula Travada,Regulagem Ou Troca Da Válvula,Ajuste / Regulagem,Refrigeração,Post Mix
+59439.0,8413.0,5373.0,Válvula Travada,Regulagem Ou Troca Da Válvula,Ajuste / Regulagem,Refrigeração,Chopeira
+59440.0,5063.0,5373.0,Vazamento Na Linha De Chopp,Troca/Reparo Válvula Dispensadora Ch,Reparo,Produto,Chopeira
+59440.0,5063.0,5371.0,Vazamento Na Linha De Chopp,Troca/Reparo Válvula Dispensadora Ch,Reparo,Produto,Post Mix
+59440.0,5063.0,5373.0,Vazamento Na Linha De Chopp,Troca/Reparo Válvula Dispensadora Ch,Reparo,Produto,Chopeira
+59440.0,5063.0,5373.0,Vazamento Na Linha De Chopp,Troca/Reparo Válvula Dispensadora Ch,Reparo,Produto,Chopeira
+59440.0,5063.0,5373.0,Vazamento Na Linha De Chopp,Troca/Reparo Válvula Dispensadora Ch,Reparo,Produto,Chopeira
+59440.0,5063.0,5371.0,Vazamento Na Linha De Chopp,Troca/Reparo Válvula Dispensadora Ch,Reparo,Produto,Post Mix
+59441.0,5063.0,5371.0,Vazamento Na Linha De Xarope,Troca/Reparo Válvula Dispensadora Ch,Reparo,Produto,Post Mix
+59441.0,5063.0,5371.0,Vazamento Na Linha De Xarope,Troca/Reparo Válvula Dispensadora Ch,Reparo,Produto,Post Mix
+59442.0,8404.0,5373.0,Sistema Desregulado,Ajuste No Sistema,Ajuste / Regulagem,Ajuste / Regulagem,Chopeira
+59442.0,8404.0,5371.0,Sistema Desregulado,Ajuste No Sistema,Ajuste / Regulagem,Ajuste / Regulagem,Post Mix
+59442.0,8404.0,5373.0,Sistema Desregulado,Ajuste No Sistema,Ajuste / Regulagem,Ajuste / Regulagem,Chopeira
+59442.0,8404.0,5371.0,Sistema Desregulado,Ajuste No Sistema,Ajuste / Regulagem,Ajuste / Regulagem,Post Mix
+60707.0,8514.0,5373.0,Xaropé Contaminado,Sanitização Da Linha De Xarope,Produto / Insumo,Sanitização / Contaminação,Chopeira
+60707.0,8514.0,5371.0,Xaropé Contaminado,Sanitização Da Linha De Xarope,Produto / Insumo,Sanitização / Contaminação,Post Mix
+60708.0,8515.0,5373.0,Água Tratada Dentro Do Equipamento Contaminada (Pós Filtro),Sanitização Da Linha De Água E Troca De Filtro,Produto / Insumo,Sanitização / Contaminação,Chopeira
+60708.0,8515.0,5371.0,Água Tratada Dentro Do Equipamento Contaminada (Pós Filtro),Sanitização Da Linha De Água E Troca De Filtro,Produto / Insumo,Sanitização / Contaminação,Post Mix
+60709.0,8516.0,5371.0,Água Da Rede Que Alimenta O Equipamento Contaminada,"Bloqueio Do Equipamento, E Comunicar O Cliente",Orientação Cliente,Sanitização / Contaminação,Post Mix
+60709.0,8516.0,5373.0,Água Da Rede Que Alimenta O Equipamento Contaminada,"Bloqueio Do Equipamento, E Comunicar O Cliente",Orientação Cliente,Sanitização / Contaminação,Chopeira
+60710.0,8516.0,5371.0,Contaminado Por Motivo Pragas,"Bloqueio Do Equipamento, E Comunicar O Cliente",Orientação Cliente,Sanitização / Contaminação,Post Mix
+60710.0,8516.0,5373.0,Contaminado Por Motivo Pragas,"Bloqueio Do Equipamento, E Comunicar O Cliente",Orientação Cliente,Sanitização / Contaminação,Chopeira
+60710.0,8517.0,5373.0,Contaminado Por Motivo Pragas,Equipamento Sanitizado,Limpeza,Sanitização / Contaminação,Chopeira
+60710.0,8517.0,5371.0,Contaminado Por Motivo Pragas,Equipamento Sanitizado,Limpeza,Sanitização / Contaminação,Post Mix
+60711.0,8517.0,5373.0,"Contaminação Cruzada (Gordura, Mofos E Etc...)",Equipamento Sanitizado,Limpeza,Sanitização / Contaminação,Chopeira
+60711.0,8517.0,5371.0,"Contaminação Cruzada (Gordura, Mofos E Etc...)",Equipamento Sanitizado,Limpeza,Sanitização / Contaminação,Post Mix
+60862.0,4984.0,5370.0,Prateleira Com Defeito,Troca/Instalação De Prateleiras,Troca De Peça,Estrutura,Refrigerador
+60877.0,4982.0,5370.0,Gabinete Empenado,Solicitar Troca De Equipamento,Troca Equipamento,Estrutura,Refrigerador
